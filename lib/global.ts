@@ -1,4 +1,1 @@
-export default {
-  social: {},
-  comingSoon: {}
-};
+export default {};
