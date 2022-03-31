@@ -7,5 +7,8 @@
     "COMMON_SEARCH_RESULT_COLLECTIONS_TITLE": "Collections",
     "COMMON_SEARCH_RESULT_ITEMS_TITLE": "Items",
     "COMMON_SEARCH_RESULT_USERS_TITLE": "Users",
-    "COMMON_SEARCH_CHECK_ALL_RESULTS": "All Results"
+    "COMMON_SEARCH_CHECK_ALL_RESULTS": "All Results",
+    "COMMON_SEARCH_NO_RESULTS": "No Search Result",
+    "COMMON_SEARCH_NO_RESULTS_DESC": "There are no results for '{{query}}' in the {{tabName}} search",
+    "COMMON_COMPONENT_BUY_NOW": "BUY NOW"
 }
