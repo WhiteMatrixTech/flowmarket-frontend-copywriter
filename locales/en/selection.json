@@ -1,0 +1,11 @@
+{
+  "SELECT_PLACEHOLDER": "Select……",
+  "SELECT_MOBILE_FILTER": "Filter",
+  "SELECT_MOBILE_RESTART": "Restart",
+  "SELECT_MOBILE_FINISH": "Finished",
+  "SELECT_OPTION_PRICE_HIGHEST": "Price-Highest",
+  "SELECT_OPTION_PRICE_LOWEST": "Price-Lowest",
+  "SELECT_OPTION_TIME_NEWEST": "Time-Newest",
+  "SELECT_OPTION_ADD_TIME_NEWEST": "Add Time Newest",
+  "SELECT_OPTION_ADD_TIME_OLDEST": "Add Time Oldest"
+}

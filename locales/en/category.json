@@ -1,0 +1,21 @@
+{
+  "CATEGORY_TITLE_CATEGORY": "Category",
+  "CATEGORY_TAG_ALL": "All",
+  "CATEGORY_TAG_FOOD": "Food",
+  "CATEGORY_TAG_MINTED": "Minted",
+  "CATEGORY_TAG_STARS": "Stars",
+  "CATEGORY_TAG_MUSIC": "Music",
+  "CATEGORY_TAG_SPORTS": "Sports",
+  "CATEGORY_TAG_MOVIES": "Movies",
+  "CATEGORY_TAG_ART": "Art",
+  "CATEGORY_TAG_PHOTOGRAPHY": "Photography",
+  "CATEGORY_TITLE_SALE_TYPE": "Sale Type",
+  "CATEGORY_TAG_LISTINGS": "Listings",
+  "CATEGORY_TAG_SALES": "Sales",
+  "CATEGORY_TAG_BIDS": "Bids",
+  "CATEGORY_TAG_TRANSFERS": "Transfers",
+  "CATEGORY_TITLE_SORT": "Sort",
+  "CATEGORY_TAG_PRICE_DESC": "Price:High To Low",
+  "CATEGORY_TAG_PRICE_ASC": "Price:Low To High",
+  "CATEGORY_TAG_RECENTLY_LISTED": "Recently Listed"
+}
