@@ -3,9 +3,10 @@
     "CREATE_PAGE_SEO_DESC": "Create page's description",
     "CREATE_PAGE_FORM_TITLE": "Create New Item",
     "CREATE_PAGE_FORM_FIELD_UPLOAD_FILE": "Upload File",
-    "CREATE_PAGE_FORM_FIELD_UPLOAD_FILE_PLACEHOLDER": "PNG,GIF,WEBP,MP4 or MP3.Max 100mb.Recommend 350x350 size for image",
+    "CREATE_PAGE_FORM_FIELD_UPLOAD_FILE_PLACEHOLDER": "Support png,gif,webp,mp4 or mp3. Max 100mb. Recommend 350x350 size for image",
     "CREATE_PAGE_FORM_FIELD_COVER": "Cover",
     "CREATE_PAGE_FORM_FIELD_COVER_SUBTITLE": "This image will also be used for navigation. 350 x 350 recommended.",
+    "CREATE_PAGE_FORM_FIELD_COVER_PLACEHOLDER": "Support png,gif,webp. Max 100mb. Recommend 350x350 size for image",
     "CREATE_PAGE_FORM_FIELD_NAME": "Name",
     "CREATE_PAGE_FORM_FIELD_DESC": "Description",
     "CREATE_PAGE_FORM_FIELD_COLLECTION": "Collection",
@@ -17,7 +18,9 @@
     "CREATE_PAGE_FORM_FIELD_PROPERTIES_ADD_MORE": "Add more",
     "CREATE_PAGE_FORM_FIELD_ROYALTIES": "Royalties",
     "CREATE_PAGE_FROM_FIELD_ROYALTIES_PLACEHOLDER": "Please input royalties's owner address",
+    "CREATE_PAGE_FROM_FIELD_ROYALTIES_PERCENTAGE_PLACEHOLDER": "Please input royalties's percentage",
     "CREATE_PAGE_FROM_FIELD_ROYALTIES_TIP": "( suggested : 0%,20%.30%,Maximum is 50% )",
-    "CREATE_PAGE_CHOOSE_FILE": "choose file",
-    "CREATE_PAGE_UPLOADING_FILE": "uploading"
+    "CREATE_PAGE_CHOOSE_FILE": "Choose File",
+    "CREATE_PAGE_UPLOADING_FILE": "Uploading",
+    "CREATE_PAGE_ALREADY_UPLOAD": "Uploaded:"
 }
