@@ -10,5 +10,6 @@
     "COMMON_SEARCH_CHECK_ALL_RESULTS": "查看更多",
     "COMMON_SEARCH_NO_RESULTS": "没有查询到结果",
     "COMMON_SEARCH_NO_RESULTS_DESC": "根据关键字 '{{query}}' 在 {{tabName}} 里没有搜索到结果",
-    "COMMON_COMPONENT_BUY_NOW": "现在购买"
+    "COMMON_COMPONENT_BUY_NOW": "现在购买",
+    "COMMON_PLACEHOLDER": "请输入 {{fieldName}}"
 }
