@@ -12,5 +12,6 @@
     "COMMON_SEARCH_NO_RESULTS_DESC": "There are no results for '{{query}}' in the {{tabName}} search",
     "COMMON_COMPONENT_BUY_NOW": "BUY NOW",
     "COMMON_PLACEHOLDER": "Please input {{fieldName}}",
-    "COMMON_SUBMIT_TEXT": "Submit"
+    "COMMON_SUBMIT_TEXT": "Submit",
+    "COMMON_OPTIONAL": "Optional"
 }
