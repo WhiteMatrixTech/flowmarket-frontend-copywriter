@@ -1,0 +1,12 @@
+{
+  "PROFILE_SEO_TITLE": "个人信息页面",
+  "PROFILE_SEO_DESC": "个人信息描述",
+  "PROFILE_BUTTON_EDIT": "编辑",
+  "PROFILE_TAB_ONSALE": "在售",
+  "PROFILE_TAB_OWNED": "拥有",
+  "PROFILE_TAB_CREATED": "创建",
+  "PROFILE_TAB_FAVORITED": "喜爱",
+  "PROFILE_TAB_ACTIVITIES": "活动",
+  "PROFILE_LIST_EMPTY_TITLE": "没有符合条件的NFT",
+  "PROFILE_LIST_EMPTY_SUBTITLE": "你可以去商城搜索更多有趣的内容"
+}

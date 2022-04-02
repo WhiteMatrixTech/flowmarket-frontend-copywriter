@@ -1,0 +1,12 @@
+{
+  "PROFILE_SEO_TITLE": "profile page title",
+  "PROFILE_SEO_DESC": "profile page description",
+  "PROFILE_BUTTON_EDIT": "Edit",
+  "PROFILE_TAB_ONSALE": "On Sale",
+  "PROFILE_TAB_OWNED": "Owned",
+  "PROFILE_TAB_CREATED": "Created",
+  "PROFILE_TAB_FAVORITED": "Favorited",
+  "PROFILE_TAB_ACTIVITIES": "Activities",
+  "PROFILE_LIST_EMPTY_TITLE": "No Nft Here",
+  "PROFILE_LIST_EMPTY_SUBTITLE": "You can go to the market to find something interesting"
+}
