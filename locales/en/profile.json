@@ -13,7 +13,11 @@
   "PROFILE_SETTING_SEO_DESC": "profile setting page description",
   "PROFILE_SETTING_FORM_TITLE": "Edit My profile",
   "PROFILE_SETTING_FORM_USERNAME_TITLE": "Username",
-  "PROFILE_SETTING_FORM_USERNAME_PLACEHOLDER": "Example",
   "PROFILE_SETTING_FORM_BIO_TITLE": "Bio",
-  "PROFILE_SETTING_FORM_BIO_PLACEHOLDER": "example"
+  "PROFILE_SETTING_FORM_LOGO_TITLE": "Logo Image",
+  "PROFILE_SETTING_FORM_LOGO_SUBTITLE": "This image will also be used for navigation. 350 x 350 recommended.",
+  "PROFILE_SETTING_FORM_FEATURED_TITLE": "Featured Image",
+  "PROFILE_SETTING_FORM_FEATURED_SUBTITLE": "This image will be used for featuring your collection on the homepage, category pages, or other promotional areas. 600 x 400 recommended.",
+  "PROFILE_SETTING_FORM_BANNER_TITLE": "Banner Image",
+  "PROFILE_SETTING_FORM_BANNER_SUBTITLE": "This image will appear at the top of your collection page. Avoid including too much text in this banner image, as the dimensions change on different devices. 1400 x 400 recommended."
 }
