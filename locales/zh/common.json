@@ -13,5 +13,6 @@
     "COMMON_COMPONENT_BUY_NOW": "现在购买",
     "COMMON_PLACEHOLDER": "请输入 {{fieldName}}",
     "COMMON_SUBMIT_TEXT": "提交",
-    "COMMON_OPTIONAL": "可选"
+    "COMMON_OPTIONAL": "可选",
+    "COMMON_COPYRIGHT": "©2022矩阵实验室 设计并开发"
 }

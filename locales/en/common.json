@@ -13,5 +13,6 @@
     "COMMON_COMPONENT_BUY_NOW": "BUY NOW",
     "COMMON_PLACEHOLDER": "Please input {{fieldName}}",
     "COMMON_SUBMIT_TEXT": "Submit",
-    "COMMON_OPTIONAL": "Optional"
+    "COMMON_OPTIONAL": "Optional",
+    "COMMON_COPYRIGHT": "Copyright 2022 Matrix Labs Design & Development"
 }
