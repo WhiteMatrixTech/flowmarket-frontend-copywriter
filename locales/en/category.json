@@ -15,7 +15,14 @@
   "CATEGORY_TAG_BIDS": "Bids",
   "CATEGORY_TAG_TRANSFERS": "Transfers",
   "CATEGORY_TITLE_SORT": "Sort",
-  "CATEGORY_TAG_PRICE_DESC": "Price:High To Low",
-  "CATEGORY_TAG_PRICE_ASC": "Price:Low To High",
-  "CATEGORY_TAG_RECENTLY_LISTED": "Recently Listed"
+  "CATEGORY_TAG_PRICE_DESC": "Price:Low To High",
+  "CATEGORY_TAG_PRICE_ASC": "Price:High To Low",
+  "CATEGORY_TAG_TIME_DESC": "Add Time:New To Last",
+  "CATEGORY_TAG_TIME_ASC": "Add Time:Last To New",
+  "CATEGORY_TITLE_TYPE": "Type",
+  "CATEGORY_TAG_ONSALE": "On Sale",
+  "CATEGORY_TAG_OWNED": "Owned",
+  "CATEGORY_TAG_CREATED": "Created",
+  "CATEGORY_TAG_FAVORITED": "Favorited",
+  "CATEGORY_TAG_ACTIVITIES": "Activities"
 }
