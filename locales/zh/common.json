@@ -1,7 +1,7 @@
 {
     "COMMON_LANGUAGE": "语言",
-    "COMMON_MARKET_NAME": "Flow Market",
-    "COMMON_SEARCH_PLACEHOLDER": "搜索系列和NFT",
+    "COMMON_MARKET_NAME": "Flow Marketplace",
+    "COMMON_SEARCH_PLACEHOLDER": "搜索系列、NFT或者地址",
     "COMMON_BALANCE": "余额",
     "COMMON_CONTACT_US": "联系我们",
     "COMMON_SEARCH_RESULT_COLLECTIONS_TITLE": "系列",
@@ -14,5 +14,7 @@
     "COMMON_PLACEHOLDER": "请输入 {{fieldName}}",
     "COMMON_SUBMIT_TEXT": "提交",
     "COMMON_OPTIONAL": "可选",
-    "COMMON_COPYRIGHT": "©2022矩阵实验室 设计并开发"
+    "COMMON_COPYRIGHT": "©2022矩阵实验室 设计并开发",
+    "COMMON_COPY_TITLE": "复制",
+    "COMMON_COPY_SUS": "复制成功!"
 }
