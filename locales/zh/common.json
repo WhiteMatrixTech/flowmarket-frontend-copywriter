@@ -16,5 +16,14 @@
     "COMMON_OPTIONAL": "可选",
     "COMMON_COPYRIGHT": "©2022矩阵实验室 设计并开发",
     "COMMON_COPY_TITLE": "复制",
-    "COMMON_COPY_SUS": "复制成功!"
+    "COMMON_COPY_SUS": "复制成功!",
+    "COMMON_CONNECT_BLOCTO_WALLET_FAILED": "连接钱包失败，请重试!",
+    "COMMON_CONNECT_WALLET_SIGN_FIRST": "请先用钱包登录。",
+    "COMMON_CONNECT_FAIL": "连接错误！",
+    "COMMON_NO_WALLET_DETECTED": "未检测到钱包信息！",
+    "COMMON_WALLET_ALREADY_INIT": "正在初始化，请稍候",
+    "COMMON_WALLET_CLIENT_NOT_FOUND": "找不到Client",
+    "COMMON_WALLET_UNABLE_CONNECT_FLOWNET": "无法连接Flow网络！",
+    "COMMON_WALLET_LOGIN_SUCCEED": "登录成功！",
+    "COMMON_WALLET_LOGOUT_SUCCEED": "退出登录成功！"
 }

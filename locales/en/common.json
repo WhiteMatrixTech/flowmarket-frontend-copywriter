@@ -1,6 +1,6 @@
 {
     "COMMON_LANGUAGE": "LANGUAGE",
-    "COMMON_MARKET_NAME": "Matrix Mart",
+    "COMMON_MARKET_NAME": "Flow Marketplace",
     "COMMON_SEARCH_PLACEHOLDER": "Search collections,items or address",
     "COMMON_BALANCE": "Balance",
     "COMMON_CONTACT_US": "CONTACT US",
@@ -16,5 +16,14 @@
     "COMMON_OPTIONAL": "Optional",
     "COMMON_COPYRIGHT": "Copyright 2022 Matrix Labs Design & Development",
     "COMMON_COPY_TITLE": "Copy",
-    "COMMON_COPY_SUS": "Copied!"
+    "COMMON_COPY_SUS": "Copied!",
+    "COMMON_CONNECT_BLOCTO_WALLET_FAILED": "Connection failed, please try again.",
+    "COMMON_CONNECT_WALLET_SIGN_FIRST": "Please sign in with a wallet first.",
+    "COMMON_CONNECT_FAIL": "Connect error!",
+    "COMMON_NO_WALLET_DETECTED": "No wallet info detected!",
+    "COMMON_WALLET_ALREADY_INIT": "Initialization in progress, Please wait",
+    "COMMON_WALLET_CLIENT_NOT_FOUND": "Client is not found",
+    "COMMON_WALLET_UNABLE_CONNECT_FLOWNET": "Unable to connect to flow network!",
+    "COMMON_WALLET_LOGIN_SUCCEED": "Log in succeed!",
+    "COMMON_WALLET_LOGOUT_SUCCEED": "Log out succeed!"
 }
