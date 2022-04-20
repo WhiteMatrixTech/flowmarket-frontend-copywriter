@@ -25,5 +25,7 @@
     "COMMON_WALLET_CLIENT_NOT_FOUND": "Client is not found",
     "COMMON_WALLET_UNABLE_CONNECT_FLOWNET": "Unable to connect to flow network!",
     "COMMON_WALLET_LOGIN_SUCCEED": "Log in succeed!",
-    "COMMON_WALLET_LOGOUT_SUCCEED": "Log out succeed!"
+    "COMMON_WALLET_LOGOUT_SUCCEED": "Log out succeed!",
+    "COMMON_WALLET_CONNECT_FIRST": "Please log in first!",
+    "COMMON_WALLET_CONNECT_BTN_TEXT": "Login"
 }
