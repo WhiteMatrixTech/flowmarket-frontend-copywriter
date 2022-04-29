@@ -29,5 +29,10 @@
     "COMMON_WALLET_CONNECT_FIRST": "请先登录!",
     "COMMON_WALLET_CONNECT_BTN_TEXT": "登录",
     "COMMON_CONNECT_WALLET_STORE_INIT": "请批准签名请求来初始化上架NFT的Store",
-    "COMMON_WALLET_UNABLE_GET_SIGN_INFO": "无法获取签名信息"
+    "COMMON_WALLET_UNABLE_GET_SIGN_INFO": "无法获取签名信息",
+    "COMMON_TIME_LESS_A_MINUTE_AGO": "不到一分钟前",
+    "COMMON_TIME_MINUTES_AGO": "{{diffMinutes}} 分钟之前",
+    "COMMON_TIME_HOURS_AGO": "{{diffHours}} 小时之前",
+    "COMMON_TIME_DAYS_AGO": "{{diffDays}} 天之前",
+    "COMMON_TIME_DAYS_AND_HOURS_AGO": "{{diffDays}} 天 {{diffHours}} 小时前"
 }

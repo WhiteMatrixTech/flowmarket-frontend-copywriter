@@ -29,5 +29,10 @@
     "COMMON_WALLET_CONNECT_FIRST": "Please log in first!",
     "COMMON_WALLET_CONNECT_BTN_TEXT": "Login",
     "COMMON_CONNECT_WALLET_STORE_INIT": "Please approve the signature request init store for listing",
-    "COMMON_WALLET_UNABLE_GET_SIGN_INFO": "Unable to get signature information"
+    "COMMON_WALLET_UNABLE_GET_SIGN_INFO": "Unable to get signature information",
+    "COMMON_TIME_LESS_A_MINUTE_AGO": "less than a minute ago",
+    "COMMON_TIME_MINUTES_AGO": "{{diffMinutes}} minutes ago",
+    "COMMON_TIME_HOURS_AGO": "{{diffHours}} hours ago",
+    "COMMON_TIME_DAYS_AGO": "{{diffDays}} days ago",
+    "COMMON_TIME_DAYS_AND_HOURS_AGO": "{{diffDays}} days {{diffHours}} hours ago"
 }
