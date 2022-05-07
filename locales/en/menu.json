@@ -15,5 +15,6 @@
     "MENU_USER_FAVORITES": "My Favorites",
     "MENU_USER_SETTINGS": "Settings",
     "MENU_USER_SIGN_OUT": "Sign Out",
-    "MENU_USER_BUTTON_ADD_FUNDS": "Add Funds"
+    "MENU_USER_BUTTON_ADD_FUNDS": "Add Funds",
+    "MENU_USER_THEME": "Night Mode"
 }
