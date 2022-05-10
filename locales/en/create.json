@@ -22,5 +22,11 @@
     "CREATE_PAGE_FROM_FIELD_ROYALTIES_TIP": "( suggested : 0%,20%.30%,Maximum is 50% )",
     "CREATE_PAGE_CHOOSE_FILE": "Choose File",
     "CREATE_PAGE_UPLOADING_FILE": "Uploading",
-    "CREATE_PAGE_ALREADY_UPLOAD": "Uploaded:"
+    "CREATE_PAGE_ALREADY_UPLOAD": "Uploaded:",
+    "CREATE_PAGE_MINT_MODAL_STEP_MINT_TITLE": "Minting",
+    "CREATE_PAGE_MINT_MODAL_STEP_MINT_DESC": "minting on the flow block chain",
+    "CREATE_PAGE_MINT_MODAL_STEP_SYNC_TITLE": "Synchronizing",
+    "CREATE_PAGE_MINT_MODAL_STEP_SYNC_DESC": "synchronizing to matrix mart backend",
+    "CREATE_PAGE_MINT_MODAL_VIEW_NFT": "View NFT",
+    "CREATE_PAGE_MINT_MODAL_CREATE_ANOTHER": "Create Another"
 }
