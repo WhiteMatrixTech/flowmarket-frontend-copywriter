@@ -36,5 +36,6 @@
     "COMMON_TIME_DAYS_AGO": "{{diffDays}} days ago",
     "COMMON_TIME_DAYS_AND_HOURS_AGO": "{{diffDays}} days {{diffHours}} hours ago",
     "COMMON_UPLOAD_FAIL": "Failed to upload",
-    "COMMON_MINTING": "Minting..."
+    "COMMON_MINTING": "Minting...",
+    "COMMON_SIGN_MSG": "Welcome to Matrix Mart! This request will not trigger a blockchain transaction or cost any gas fees. Your authentication status will reset after 2 hours. Wallet address: {{address}} Nonce: {{nonce}}"
 }
