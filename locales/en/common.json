@@ -10,7 +10,7 @@
     "COMMON_SEARCH_CHECK_ALL_RESULTS": "All Results",
     "COMMON_SEARCH_NO_RESULTS": "No Search Result",
     "COMMON_SEARCH_NO_RESULTS_DESC": "There are no results for '{{query}}' in the {{tabName}} search",
-    "COMMON_COMPONENT_BUY_NOW": "BUY NOW",
+    "COMMON_COMPONENT_BUY_NOW": "View Detail",
     "COMMON_PLACEHOLDER": "Please input {{fieldName}}",
     "COMMON_SUBMIT_TEXT": "Submit",
     "COMMON_OPTIONAL": "Optional",
