@@ -39,5 +39,17 @@
     "COMMON_MINTING": "薄荷中...",
     "COMMON_SIGN_MSG": "欢迎来到 Matrix Mart! 这个签名请求将不会触发区块链交易或消耗gas费. 签名有效期为2小时. 钱包地址: {{address}}. 签名Nonce: {{nonce}}",
     "COMMON_CONTRACT_INTERACT_MODAL_STEP_SYNC_TITLE": "同步",
-    "COMMON_CONTRACT_INTERACT_MODAL_STEP_SYNC_DESC": "同步到 matrix mart 后端数据库"
+    "COMMON_CONTRACT_INTERACT_MODAL_STEP_SYNC_DESC": "同步到 matrix mart 后端数据库",
+    "COMMON_ACTIVITY_TYPE_TRANSFER": "转让",
+    "COMMON_ACTIVITY_TYPE_LIST": "挂单",
+    "COMMON_ACTIVITY_TYPE_MINT": "铸造",
+    "COMMON_ACTIVITY_TYPE_OFFER": "出价",
+    "COMMON_ACTIVITY_TYPE_SALE": "出售",
+    "COMMON_ACTIVITY_TYPE_ALL": "全部",
+    "COMMON_CATEGORY_TYPE_ART": "艺术",
+    "COMMON_CATEGORY_TYPE_MOVIES": "电影",
+    "COMMON_CATEGORY_TYPE_MUSIC": "音乐",
+    "COMMON_CATEGORY_TYPE_PHOTOGRAPHY": "摄影",
+    "COMMON_CATEGORY_TYPE_SPORTS": "运动",
+    "COMMON_CATEGORY_TYPE_ALL": "全部"
 }
