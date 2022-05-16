@@ -52,6 +52,8 @@
     "COMMON_CATEGORY_TYPE_PHOTOGRAPHY": "photography",
     "COMMON_CATEGORY_TYPE_SPORTS": "sports",
     "COMMON_CATEGORY_TYPE_ALL": "all",
+    "COMMON_SALE_TYPE_FIXED": "fixed",
+    "COMMON_SALE_TYPE_ALL": "all",
     "COMMON_CONTRACT_INTERACT_MODAL_BUY_TITLE": "Buy NFT",
     "COMMON_CONTRACT_INTERACT_MODAL_BUY_SUBTITLE": "In purchase...",
     "COMMON_CONTRACT_INTERACT_MODAL_BUY_DESC": "In the process of flow blockchain network purchase...",
