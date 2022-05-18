@@ -1,6 +1,6 @@
 {
     "COMMON_LANGUAGE": "语言",
-    "COMMON_MARKET_NAME": "Matrix Mart",
+    "COMMON_MARKET_NAME": "Matrix Market",
     "COMMON_SEARCH_PLACEHOLDER": "搜索系列、NFT或者地址",
     "COMMON_BALANCE": "余额",
     "COMMON_CONTACT_US": "联系我们",
@@ -38,7 +38,7 @@
     "COMMON_TIME_DAYS_AND_HOURS_AGO": "{{diffDays}} 天 {{diffHours}} 小时前",
     "COMMON_UPLOAD_FAIL": "上传失败",
     "COMMON_MINTING": "薄荷中...",
-    "COMMON_SIGN_MSG": "欢迎来到 Matrix Mart! 这个签名请求将不会触发区块链交易或消耗gas费. 签名有效期为2小时. 钱包地址: {{address}}. 签名Nonce: {{nonce}}",
+    "COMMON_SIGN_MSG": "欢迎来到 Matrix Market! 这个签名请求将不会触发区块链交易或消耗gas费. 签名有效期为2小时. 钱包地址: {{address}}. 签名Nonce: {{nonce}}",
     "COMMON_CONTRACT_INTERACT_MODAL_STEP_SYNC_TITLE": "同步",
     "COMMON_CONTRACT_INTERACT_MODAL_STEP_SYNC_DESC": "同步到 matrix mart 后端数据库",
     "COMMON_ACTIVITY_TYPE_TRANSFER": "转让",
