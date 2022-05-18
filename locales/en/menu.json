@@ -1,8 +1,8 @@
 {
-    "MENU_MARKET": "MARKET",
-    "MENU_COLLECTIONS": "COLLECTIONS",
-    "MENU_CREATE": "CREATE",
-    "MENU_USER_PROFILE": "Profile",
+    "MENU_MARKET": "Market",
+    "MENU_COLLECTIONS": "Collections",
+    "MENU_CREATE": "Create",
+    "MENU_USER_PROFILE": "My Profile",
     "MENU_USER_COLLECTIONS": "My Collections",
     "MENU_USER_FAVORITES": "My Favorites",
     "MENU_USER_SETTINGS": "Settings",
