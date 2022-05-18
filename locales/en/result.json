@@ -1,5 +1,5 @@
 {
-    "RESULT_PAGE_FOR": "Search Results For: {{query}}",
-    "RESULT_PAGE_SEO_TITLE": "Search Results For: {{query}}",
+    "RESULT_PAGE_FOR": "Search results for {{query}}",
+    "RESULT_PAGE_SEO_TITLE": "Search results for {{query}} | Matrix Market",
     "RESULT_PAGE_SEO_DESC": "This page show the search result of {{query}}"
 }
