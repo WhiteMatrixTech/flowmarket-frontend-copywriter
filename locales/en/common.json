@@ -66,5 +66,5 @@
     "COMMON_SELL_PARAMS_MODAL_INPUT_INCORRECT": "The list price is not correct",
     "COMMON_SELL_PARAMS_MODAL_LIST_NOW": "List Now",
     "COMMON_INTERACT_MODAL_STEP1_DESC": "Sending transaction to Flow blockchain",
-    "COMMON_INTERACT_MODAL_STEP2_DESC": "Fetching the transaction result"
+    "COMMON_INTERACT_MODAL_STEP2_DESC": "Fetching transaction result"
 }
