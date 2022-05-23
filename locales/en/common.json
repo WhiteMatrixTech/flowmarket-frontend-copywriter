@@ -74,5 +74,11 @@
     "COMMON_FLOW_BALANCE_NOT_ENOUGH": "Sorry, your flow balance is not enough",
     "COMMON_FUSD_BALANCE_NOT_ENOUGH": "Sorry, your fusd balance is not enough",
     "COMMON_INTERACT_CANCEL_LIST_NO_LIST_ID": "No list id",
-    "COMMON_INTERACT_BUY_NO_ID": "No list id or owner id"
+    "COMMON_INTERACT_BUY_NO_ID": "No list id or owner id",
+    "COMMON_ACTIVITY_TABLE_FIELD_ITEMS": "Items",
+    "COMMON_ACTIVITY_TABLE_FIELD_PRICE": "Price",
+    "COMMON_ACTIVITY_TABLE_FIELD_QUANTITY": "Quantity",
+    "COMMON_ACTIVITY_TABLE_FIELD_FROM": "From",
+    "COMMON_ACTIVITY_TABLE_FIELD_TO": "To",
+    "COMMON_ACTIVITY_TABLE_FIELD_TIME": "Time"
 }
