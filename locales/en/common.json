@@ -59,12 +59,20 @@
     "COMMON_CONTRACT_INTERACT_MODAL_CANCEL_LIST_TITLE": "Cancelling",
     "COMMON_CONTRACT_INTERACT_MODAL_CANCEL_LIST_SUBTITLE": "Processing",
     "COMMON_CONTRACT_INTERACT_MODAL_CANCEL_LIST_DESC": "In the process of cancelling a price list on the Flow blockchain",
+    "COMMON_CONTRACT_INTERACT_MODAL_SELL_FIXED_PRICE_PARAMS": "Fixed Price",
     "COMMON_CONTRACT_INTERACT_MODAL_SELL_TITLE": "Listing",
     "COMMON_CONTRACT_INTERACT_MODAL_SELL_SUBTITLE": "Processing",
     "COMMON_CONTRACT_INTERACT_MODAL_SELL_DESC": "In the process of creating a price list on the Flow blockchain",
+    "COMMON_CONTRACT_INTERACT_MODAL_SELL_NO_TOKEN_ID": "No Token ID",
     "COMMON_SELL_PARAMS_MODAL_INPUT_PD": "Amount",
     "COMMON_SELL_PARAMS_MODAL_INPUT_INCORRECT": "The list price is not correct",
     "COMMON_SELL_PARAMS_MODAL_LIST_NOW": "List Now",
     "COMMON_INTERACT_MODAL_STEP1_DESC": "Sending transaction to Flow blockchain",
-    "COMMON_INTERACT_MODAL_STEP2_DESC": "Fetching transaction result"
+    "COMMON_INTERACT_MODAL_STEP2_DESC": "Fetching transaction result",
+    "COMMON_INTERACT_ERROR_TIP": "Error while interact with contract",
+    "COMMON_INCORRECT_LIST_PRICE": "Failed to buy, incorrect list price",
+    "COMMON_FLOW_BALANCE_NOT_ENOUGH": "Sorry, your flow balance is not enough",
+    "COMMON_FUSD_BALANCE_NOT_ENOUGH": "Sorry, your fusd balance is not enough",
+    "COMMON_INTERACT_CANCEL_LIST_NO_LIST_ID": "No list id",
+    "COMMON_INTERACT_BUY_NO_ID": "No list id or owner id"
 }

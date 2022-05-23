@@ -28,5 +28,8 @@
     "CREATE_PAGE_MINT_MODAL_STEP_SYNC_TITLE": "Synchronizing",
     "CREATE_PAGE_MINT_MODAL_STEP_SYNC_DESC": "synchronizing data state",
     "CREATE_PAGE_MINT_MODAL_VIEW_NFT": "View NFT",
-    "CREATE_PAGE_MINT_MODAL_CREATE_ANOTHER": "Create Another"
+    "CREATE_PAGE_MINT_MODAL_CREATE_ANOTHER": "Create Another",
+    "CREATE_PAGE_INCOMPLETE_ROYALTIES": "Incomplete royalties",
+    "CREATE_PAGE_INCORRECT_ADDRESS": "Incorrect owner address",
+    "CREATE_PAGE_MINT_FAILED": "Failed to mint"
 }
