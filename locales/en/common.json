@@ -12,7 +12,7 @@
     "COMMON_SEARCH_NO_RESULTS_DESC": "There are no search results for '{{query}}'",
     "COMMON_COMPONENT_BUY_NOW": "Buy Now",
     "COMMON_COMPONENT_VIEW_DETAIL": "View Detail",
-    "COMMON_PLACEHOLDER": "Please input {{fieldName}}",
+    "COMMON_PLACEHOLDER": "Please enter {{fieldName}}",
     "COMMON_SUBMIT_TEXT": "Submit",
     "COMMON_OPTIONAL": "Optional",
     "COMMON_COPYRIGHT": "Copyright 2022 Matrix Labs.",
