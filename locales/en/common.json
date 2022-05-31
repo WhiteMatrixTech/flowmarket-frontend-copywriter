@@ -30,7 +30,7 @@
     "COMMON_WALLET_CONNECT_FIRST": "Please log in first!",
     "COMMON_WALLET_RELOGIN": "Login expired, Please login again",
     "COMMON_WALLET_CONNECT_BTN_TEXT": "Login",
-    "COMMON_CONNECT_WALLET_STORE_INIT": "Please approve the signature request init store for listing",
+    "COMMON_CONNECT_WALLET_INIT": "Please approve the signature request init",
     "COMMON_WALLET_UNABLE_GET_SIGN_INFO": "Unable to get signature information",
     "COMMON_TIME_LESS_A_MINUTE_AGO": "less than a minute ago",
     "COMMON_TIME_MINUTES_AGO": "{{diffMinutes}} minutes ago",
