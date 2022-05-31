@@ -1,5 +1,3 @@
 {
-    "RESULT_PAGE_FOR": "{{query}} 的搜索结果",
-    "RESULT_PAGE_SEO_TITLE": "{{query}} 的搜索结果",
-    "RESULT_PAGE_SEO_DESC": "当前页面展示了 {{query}} 的搜索结果"
+    "RESULT_PAGE_FOR": "{{query}} 的搜索结果"
 }

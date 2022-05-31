@@ -1,6 +1,4 @@
 {
-  "PROFILE_SEO_TITLE": "Profile Page | Matrix Market",
-  "PROFILE_SEO_DESC": "Profile page of matrix mart's user",
   "PROFILE_BUTTON_EDIT": "Edit",
   "PROFILE_TAB_ONSALE": "On Sale",
   "PROFILE_TAB_OWNED": "Owned",
@@ -9,8 +7,6 @@
   "PROFILE_TAB_ACTIVITIES": "Activity",
   "PROFILE_LIST_EMPTY_TITLE": "No Nft Here",
   "PROFILE_LIST_EMPTY_SUBTITLE": "You can go to the market to find something interesting",
-  "PROFILE_SETTING_SEO_TITLE": "Profile Setting Page | Matrix Market",
-  "PROFILE_SETTING_SEO_DESC": "Profile Setting Page Description",
   "PROFILE_SETTING_FORM_TITLE": "Edit My Profile",
   "PROFILE_SETTING_FORM_USERNAME_TITLE": "Username",
   "PROFILE_SETTING_FORM_BIO_TITLE": "Bio",

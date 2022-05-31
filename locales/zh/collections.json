@@ -1,20 +1,4 @@
 {
-    "COLLECTIONS_ALL_PAGE_SEO_TITLE": "所有系列",
-    "COLLECTIONS_ALL_PAGE_SEO_DESC": "Flow marketplace的所有系列nft",
-    "COLLECTIONS_ART_PAGE_SEO_TITLE": "艺术系列",
-    "COLLECTIONS_ART_PAGE_SEO_DESC": "Flow marketplace的艺术系列nft",
-    "COLLECTIONS_SPORTS_PAGE_SEO_TITLE": "运动系列",
-    "COLLECTIONS_SPORTS_PAGE_SEO_DESC": "Flow marketplace的运动系列nft",
-    "COLLECTIONS_MUSIC_PAGE_SEO_TITLE": "音乐系列",
-    "COLLECTIONS_MUSIC_PAGE_SEO_DESC": "Flow marketplace的音乐系列nft",
-    "COLLECTIONS_MOVIES_PAGE_SEO_TITLE": "电影系列",
-    "COLLECTIONS_MOVIES_PAGE_SEO_DESC": "Flow marketplace的电影系列nft",
-    "COLLECTIONS_PHOTOGRAPHY_PAGE_SEO_TITLE": "摄影系列",
-    "COLLECTIONS_PHOTOGRAPHY_PAGE_SEO_DESC": "Flow marketplace的摄影系列nft",
-    "COLLECTIONS_FOOD_PAGE_SEO_TITLE": "美食系列",
-    "COLLECTIONS_FOOD_PAGE_SEO_DESC": "Flow marketplace的美食系列nft",
-    "COLLECTIONS_STARS_PAGE_SEO_TITLE": "明星系列",
-    "COLLECTIONS_STARS_PAGE_SEO_DESC": "Flow marketplace的明星系列nft",
     "COLLECTIONS_PAGE_TITLE": "探索所有系列",
     "COLLECTIONS_MOBILE_CATEGORY_TITLE": "系列分类"
 }

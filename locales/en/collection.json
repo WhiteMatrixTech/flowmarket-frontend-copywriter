@@ -1,6 +1,4 @@
 {
-    "COLLECTION_PAGE_SEO_TITLE": "Collection Detail | Matrix Market",
-    "COLLECTION_PAGE_SEO_DESC": "Collection detail page",
     "COLLECTION_DETAIL_BUTTON_EDIT": "Edit",
     "COLLECTION_DETAIL_ITEMS": "Items",
     "COLLECTION_DETAIL_OWNERS": "Owners",
@@ -14,8 +12,6 @@
     "COLLECTION_DETAIL_ADD_TIME_NEW": "Newest",
     "COLLECTION_DETAIL_ADD_TIME_OLD": "Oldest",
     "COLLECTION_DETAIL_CREATE_BY": "Create by",
-    "COLLECTION_NFT_SEO_TITLE": "NFT Detail | Matrix Market",
-    "COLLECTION_NFT_SEO_DESC": "NFT detail page",
     "COLLECTION_NFT_PROPERTIES": "Properties",
     "COLLECTION_NFT_CREATOR": "Creator",
     "COLLECTION_NFT_OWNER": "Owner",
@@ -45,5 +41,8 @@
     "COLLECTION_NFT_MODAL_BIDING_BALANCE": "Your Biding Balance",
     "COLLECTION_NFT_MODAL_BALANCE": "Your Balance",
     "COLLECTION_NFT_MODAL_SERVICE_FEE": "Service Fee",
-    "COLLECTION_NFT_MODAL_TOTAL_PAY": "Total Pay"
+    "COLLECTION_NFT_MODAL_TOTAL_PAY": "Total Pay",
+    "COLLECTION_NFT_HIGHEST_OFFER": "Highest Offer",
+    "COLLECTION_NFT_BID_ACCEPT": "Accept",
+    "COLLECTION_NFT_BID_CANCELED": "Cancelled"
 }
