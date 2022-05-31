@@ -1,6 +1,4 @@
 {
-    "EDIT_PAGE_SEO_TITLE": "编辑系列信息",
-    "EDIT_PAGE_SEO_DESC": "此页面用于收藏的所有者编辑收藏资料",
     "EDIT_PAGE_FORM_TITLE": "编辑 {{name}} 系列",
     "EDIT_PAGE_FORM_FIELD_LOGO_TITLE":"Logo图片",
     "EDIT_PAGE_FORM_FIELD_LOGO_SUBTITLE":"此图像也将用于导航。建议使用 350 x 350。",

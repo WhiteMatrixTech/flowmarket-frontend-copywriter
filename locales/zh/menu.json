@@ -8,5 +8,7 @@
     "MENU_USER_SETTINGS": "设置",
     "MENU_USER_SIGN_OUT": "退出登录",
     "MENU_USER_BUTTON_ADD_FUNDS": "增加资金",
-    "MENU_USER_THEME": "夜晚模式"
+    "MENU_STATUS": "状态",
+    "MENU_RANKINGS": "排名",
+    "MENU_ACTIVITIES": "活动"
 }
