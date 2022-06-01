@@ -11,5 +11,11 @@
     "MENU_USER_BUTTON_ADD_FUNDS": "增加资金",
     "MENU_STATUS": "状态",
     "MENU_RANKINGS": "排名",
-    "MENU_ACTIVITIES": "活动"
+    "MENU_ACTIVITIES": "活动",
+    "MENU_COMMUNITY": "社区",
+    "MENU_BLOG": "博客",
+    "MENU_FAQ": "常见问题解答",
+    "MENU_ABOUT_US": "关于我们",
+    "MENU_ABOUT_MARKET": "关于Matrix Market",
+    "MENU_CONTACT_US": "联系我们"
 }

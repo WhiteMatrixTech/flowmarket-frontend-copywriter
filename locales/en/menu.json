@@ -11,5 +11,11 @@
     "MENU_USER_BUTTON_ADD_FUNDS": "Add Funds",
     "MENU_STATUS": "Status",
     "MENU_RANKINGS": "Rankings",
-    "MENU_ACTIVITIES": "Activities"
+    "MENU_ACTIVITIES": "Activities",
+    "MENU_COMMUNITY": "Community",
+    "MENU_BLOG": "Blog",
+    "MENU_FAQ": "FAQ",
+    "MENU_ABOUT_US": "About Us",
+    "MENU_ABOUT_MARKET": "About Matrix Market",
+    "MENU_CONTACT_US": "Contact Us"
 }
