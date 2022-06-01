@@ -1,5 +1,6 @@
 {
-    "MENU_MARKET": "Explore",
+    "MENU_EXPLORE": "Explore",
+    "MENU_MARKET": "All NFTs",
     "MENU_COLLECTIONS": "Collections",
     "MENU_CREATE": "Create",
     "MENU_USER_PROFILE": "My Profile",
