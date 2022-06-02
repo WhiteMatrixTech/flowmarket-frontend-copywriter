@@ -14,6 +14,7 @@
     "COMMON_COMPONENT_VIEW_DETAIL": "查看详情",
     "COMMON_COMPONENT_PRICE": "价格",
     "COMMON_COMPONENT_HIGHEST_BID": "最高出价",
+    "COMMON_COMPONENT_NOT_SALE": "暂不出售",
     "COMMON_PLACEHOLDER": "请输入 {{fieldName}}",
     "COMMON_SUBMIT_TEXT": "提交",
     "COMMON_OPTIONAL": "可选",

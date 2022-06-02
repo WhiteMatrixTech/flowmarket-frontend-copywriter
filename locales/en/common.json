@@ -14,6 +14,7 @@
     "COMMON_COMPONENT_VIEW_DETAIL": "View Detail",
     "COMMON_COMPONENT_PRICE": "Price",
     "COMMON_COMPONENT_HIGHEST_BID": "Highest Bid",
+    "COMMON_COMPONENT_NOT_SALE": "Not For Sale",
     "COMMON_PLACEHOLDER": "Please enter {{fieldName}}",
     "COMMON_SUBMIT_TEXT": "Submit",
     "COMMON_OPTIONAL": "Optional",
