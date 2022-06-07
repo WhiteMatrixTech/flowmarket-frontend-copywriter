@@ -45,6 +45,8 @@
     "COMMON_TIME_DAYS_AND_HOURS_AGO": "{{diffDays}} 天 {{diffHours}} 小时前",
     "COMMON_UPLOAD_FAIL": "上传失败",
     "COMMON_MINTING": "薄荷",
+    "COMMON_CONGRATULATION": "恭喜!",
+    "COMMON_MINT_CONGRATULATION_DESC": "恭喜您成功薄荷一个新的NFT",
     "COMMON_SIGN_MSG": "欢迎来到 Matrix Market! 这个签名请求将不会触发区块链交易或消耗gas费. 签名有效期为2小时. 钱包地址: {{address}}. 签名Nonce: {{nonce}}",
     "COMMON_ACTIVITY_TYPE_TRANSFER": "转让",
     "COMMON_ACTIVITY_TYPE_LIST": "挂单",
