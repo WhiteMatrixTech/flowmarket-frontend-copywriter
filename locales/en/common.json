@@ -104,5 +104,7 @@
     "COMMON_FILTER_PRICE_APPLY_BTN_TEXT": "Apply",
     "COMMON_FILTER_CATEGORY_TITLE": "Category",
     "COMMON_FILTER_COLLECTIONS_TITLE": "Collections",
-    "COMMON_FILTER_COLLECTIONS_SEARCH_PLACEHOLDER": "Search"
+    "COMMON_FILTER_COLLECTIONS_SEARCH_PLACEHOLDER": "Search",
+    "COMMON_LIST_TIP": "Enter new price. Your NFT will be pushed in top of MatrixMarket.",
+    "COMMON_MODAL_CANCEL": "Cancel"
 }
