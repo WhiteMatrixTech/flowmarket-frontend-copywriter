@@ -64,6 +64,7 @@
     "COMMON_SALE_TYPE_FIXED": "fixed",
     "COMMON_SALE_TYPE_ALL": "all",
     "COMMON_CONTRACT_INTERACT_MODAL_BUY_TITLE": "Purchasing",
+    "COMMON_CONTRACT_INTERACT_MODAL_MAKE_OFFER_TITLE": "Offering",
     "COMMON_CONTRACT_INTERACT_MODAL_BUY_SUBTITLE": "In purchase",
     "COMMON_CONTRACT_INTERACT_MODAL_BUY_DESC": "In the process of purchase list on the Flow blockchain",
     "COMMON_CONTRACT_INTERACT_MODAL_CANCEL_LIST_TITLE": "Cancelling",
@@ -76,6 +77,7 @@
     "COMMON_CONTRACT_INTERACT_MODAL_SELL_NO_TOKEN_ID": "No Token ID",
     "COMMON_SELL_PARAMS_MODAL_INPUT_PD": "Amount",
     "COMMON_SELL_PARAMS_MODAL_INPUT_INCORRECT": "The list price is not correct",
+    "COMMON_MAKE_OFFER_MODAL_INPUT_INCORRECT": "Bid price incorrect",
     "COMMON_SELL_PARAMS_MODAL_LIST_NOW": "List Now",
     "COMMON_BUY_MODAL_TITLE": "Buy",
     "COMMON_BUY_MODAL_BTN_TEXT": "Buy Now",
@@ -104,6 +106,7 @@
     "COMMON_ACTIVITY_TABLE_FIELD_FROM": "From",
     "COMMON_ACTIVITY_TABLE_FIELD_TO": "To",
     "COMMON_ACTIVITY_TABLE_FIELD_TIME": "Time",
+    "COMMON_ACTIVITY_TABLE_FIELD_EXPIRE_TIME": "Expire in",
     "COMMON_FILTER_BTN_TEXT": "Filter",
     "COMMON_FILTER_BTN_TEXT_CLEAR": "Clear",
     "COMMON_FILTER_BTN_TEXT_CONFIRM": "Confirm",
@@ -114,5 +117,12 @@
     "COMMON_FILTER_COLLECTIONS_TITLE": "Collections",
     "COMMON_FILTER_COLLECTIONS_SEARCH_PLACEHOLDER": "Search",
     "COMMON_LIST_TIP": "Enter new price. Your NFT will be pushed in top of MatrixMarket.",
-    "COMMON_MODAL_CANCEL": "Cancel"
+    "COMMON_MODAL_CANCEL": "Cancel",
+    "COMMON_MODAL_MAKE_OFFER_TITLE": "Make An Offer",
+    "COMMON_MODAL_MAKE_OFFER_BTN_TEXT": "Make Offer Now",
+    "COMMON_BALANCE_NOT_ENOUGH": "Banlance is not enough",
+    "COMMON_OFFER_ACCEPT_BTN_TEXT": "Accept",
+    "COMMON_OFFER_CANCEL_BTN_TEXT": "Cancel",
+    "COMMON_OFFER_CANCEL_SUS": "Cancel offer successfully",
+    "COMMON_OFFER_ACCEPT_SUS": "Accept offer successfully"
 }
