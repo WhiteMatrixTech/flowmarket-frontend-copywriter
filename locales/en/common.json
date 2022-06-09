@@ -134,5 +134,10 @@
     "COMMON_OFFER_ACCEPT_BTN_TEXT": "Accept",
     "COMMON_OFFER_CANCEL_BTN_TEXT": "Cancel",
     "COMMON_OFFER_CANCEL_SUS": "Cancel offer successfully",
-    "COMMON_OFFER_ACCEPT_SUS": "Accept offer successfully"
+    "COMMON_OFFER_ACCEPT_SUS": "Accept offer successfully",
+    "COMMON_MODAL_MAKE_OFFER_EXPIRE_TIME": "Expire in",
+    "COMMON_DAY": "Day",
+    "COMMON_DAYS": "Days",
+    "COMMON_MONTH": "Month",
+    "COMMON_MONTHS": "Months"
 }
