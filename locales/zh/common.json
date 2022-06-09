@@ -134,5 +134,10 @@
     "COMMON_OFFER_ACCEPT_BTN_TEXT": "接收",
     "COMMON_OFFER_CANCEL_BTN_TEXT": "取消",
     "COMMON_OFFER_CANCEL_SUS": "取消报价成功",
-    "COMMON_OFFER_ACCEPT_SUS": "接收报价成功"
+    "COMMON_OFFER_ACCEPT_SUS": "接收报价成功",
+    "COMMON_MODAL_MAKE_OFFER_EXPIRE_TIME": "过期时间",
+    "COMMON_DAY": "天",
+    "COMMON_DAYS": "天",
+    "COMMON_MONTH": "月",
+    "COMMON_MONTHS": "月"
 }
