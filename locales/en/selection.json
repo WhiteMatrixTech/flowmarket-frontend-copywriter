@@ -3,9 +3,10 @@
   "SELECT_MOBILE_FILTER": "Filter",
   "SELECT_MOBILE_RESTART": "Restart",
   "SELECT_MOBILE_FINISH": "Finished",
+  "SELECT_OPTION_DEFAULT": "Default",
   "SELECT_OPTION_PRICE_HIGHEST": "Price-Highest",
   "SELECT_OPTION_PRICE_LOWEST": "Price-Lowest",
-  "SELECT_OPTION_ADD_TIME_NEWEST": "Add Time Newest",
-  "SELECT_OPTION_ADD_TIME_OLDEST": "Add Time Oldest",
+  "SELECT_OPTION_RECENTLY_LISTED": "Recently-Listed",
+  "SELECT_OPTION_CREATE_TIME_DESC": "Recently-Created",
   "SELECT_SORT_BY": "Sort by"
 }
