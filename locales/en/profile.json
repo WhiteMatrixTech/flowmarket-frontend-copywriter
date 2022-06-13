@@ -14,9 +14,9 @@
   "PROFILE_SETTING_FORM_LOGO_TITLE": "Logo Image",
   "PROFILE_SETTING_FORM_LOGO_SUBTITLE": "This image will be used for navigation. 350 x 350 recommended.",
   "PROFILE_SETTING_FORM_FEATURED_TITLE": "Featured Image",
-  "PROFILE_SETTING_FORM_FEATURED_SUBTITLE": "This image will be used for featuring your collection on the homepage, category pages, or other promotional areas.",
+  "PROFILE_SETTING_FORM_FEATURED_SUBTITLE": "This image will be displayed on the <span class='highLight'>background</span> of your personal business card.",
   "PROFILE_SETTING_FORM_BANNER_TITLE": "Banner Image",
-  "PROFILE_SETTING_FORM_BANNER_SUBTITLE": "This image will appear at the top of your collection page. Avoid including too much text in this banner image, as the dimensions change on different devices.",
+  "PROFILE_SETTING_FORM_BANNER_SUBTITLE": "This image will appear at the top of <span class='highLight'>your collection page</span>. Avoid including too much text in this banner image, as the dimensions change on different devices.",
   "PROFILE_SETTING_EDIT_UPDATE_SUS": "Update user profile succeed!",
   "PROFILE_SETTING_EDIT_UPDATE_FAIL": "Failed to update user profile"
 }
