@@ -18,5 +18,8 @@
     "EDIT_PAGE_FORM_FIELD_LINK_DISCORD": "discord url",
     "EDIT_PAGE_FORM_FIELD_COLLABORATORS_TITLE": "Collaborators",
     "EDIT_PAGE_FORM_FIELD_COLLABORATORS_SUBTITLE": "Collaborators can modify collection settings, receive payments for items they created, change the collection's creator earnings payout address, and create new items.",
-    "EDIT_PAGE_FORM_FIELD_COLLABORATORS_BUTTON_ADD_TEXT": "Add Collaborators"
+    "EDIT_PAGE_FORM_FIELD_COLLABORATORS_BUTTON_ADD_TEXT": "Add Collaborators",
+    "CREATE_COLLECTION_PAGE_FORM_TITLE": "Create Collection",
+    "EDIT_PAGE_NOT_OWNER": "The owner of this collection is not you, and will be backed out in 3 seconds",
+    "EDIT_PAGE_FAILED_TO_GET_DETAIL": "Error white get collection detail, and will be backed out in 3 seconds"
 }

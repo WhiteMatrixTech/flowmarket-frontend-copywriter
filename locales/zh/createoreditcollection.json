@@ -18,5 +18,8 @@
     "EDIT_PAGE_FORM_FIELD_LINK_DISCORD": "discord地址",
     "EDIT_PAGE_FORM_FIELD_COLLABORATORS_TITLE": "合作者",
     "EDIT_PAGE_FORM_FIELD_COLLABORATORS_SUBTITLE": "合作者可以修改收藏设置、接收他们创建的项目的付款、更改收藏的创建者收入支付地址以及创建新项目。",
-    "EDIT_PAGE_FORM_FIELD_COLLABORATORS_BUTTON_ADD_TEXT": "添加合作者"
+    "EDIT_PAGE_FORM_FIELD_COLLABORATORS_BUTTON_ADD_TEXT": "添加合作者",
+    "CREATE_COLLECTION_PAGE_FORM_TITLE": "创建Collection",
+    "EDIT_PAGE_NOT_OWNER": "这个collection的拥有者不是你，将在3秒后回退",
+    "EDIT_PAGE_FAILED_TO_GET_DETAIL": "获取Collection详情失败，将在3秒后回退"
 }

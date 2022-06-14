@@ -36,5 +36,7 @@
   "SEO_TITLE_RANKINGS": "Rankings | Matrix Market",
   "SEO_DESC_RANKINGS": "Rankings Desc",
   "SEO_TITLE_RESULT": "Search results for {{query}} | Matrix Market",
-  "SEO_DESC_RESULT": "This page show the search result of {{query}}"
+  "SEO_DESC_RESULT": "This page show the search result of {{query}}",
+  "SEO_TITLE_COLL_CREATE": "Create Collection Page | Matrix Market",
+  "SEO_DESC_COLL_CREATE": "Create collection page's description"
 }
