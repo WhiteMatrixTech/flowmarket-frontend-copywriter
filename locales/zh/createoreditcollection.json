@@ -21,5 +21,6 @@
     "EDIT_PAGE_FORM_FIELD_COLLABORATORS_BUTTON_ADD_TEXT": "添加合作者",
     "CREATE_COLLECTION_PAGE_FORM_TITLE": "创建Collection",
     "EDIT_PAGE_NOT_OWNER": "这个collection的拥有者不是你，将在3秒后回退",
-    "EDIT_PAGE_FAILED_TO_GET_DETAIL": "获取Collection详情失败，将在3秒后回退"
+    "EDIT_PAGE_FAILED_TO_GET_DETAIL": "获取Collection详情失败，将在3秒后回退",
+    "CREATE_PAGE_NAME_INVALID": "姓名不合法，输入值不符合变量命名规范"
 }
