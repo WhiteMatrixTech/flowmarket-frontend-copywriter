@@ -142,5 +142,6 @@
     "COMMON_MONTH": "Month",
     "COMMON_MONTHS": "Months",
     "COMMON_NO_DESC": "No description",
-    "COMMON_BACK_TO_HOME": "Back to Home"
+    "COMMON_NOT_FOUND_DESC": "This page could not be found",
+    "COMMON_BACK_TO_HOME": "Back to the homepage"
 }
