@@ -141,5 +141,6 @@
     "COMMON_DAYS": "天",
     "COMMON_MONTH": "月",
     "COMMON_MONTHS": "月",
-    "COMMON_NO_DESC": "无描述"
+    "COMMON_NO_DESC": "无描述",
+    "COMMON_BACK_TO_HOME": "回到首页"
 }
