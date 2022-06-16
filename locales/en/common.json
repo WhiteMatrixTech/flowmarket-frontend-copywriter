@@ -140,5 +140,6 @@
     "COMMON_DAY": "Day",
     "COMMON_DAYS": "Days",
     "COMMON_MONTH": "Month",
-    "COMMON_MONTHS": "Months"
+    "COMMON_MONTHS": "Months",
+    "COMMON_NO_DESC": "No description"
 }
