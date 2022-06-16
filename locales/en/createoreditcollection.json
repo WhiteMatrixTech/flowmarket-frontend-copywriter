@@ -27,6 +27,7 @@
     "EDIT_COLLECTION_PAGE_NOT_OWNER": "The owner of this collection is not you, and will be backed out in 3 seconds",
     "EDIT_COLLECTION_PAGE_FAILED_TO_GET_DETAIL": "Error white get collection detail, and will be backed out in 3 seconds",
     "CREATE_PAGE_NAME_INVALID": "Name is invalid，input value does not conform to variable naming conventions",
+    "CREATE_PAGE_ROYALTY_INVALID": "Royalty is invalid",
     "EDIT_COLLECTION_PAGE_ROYALTY_TITLE": "Royalties",
     "EDIT_COLLECTION_PAGE_ROYALTY_ADDRESS": "Address",
     "EDIT_COLLECTION_PAGE_ROYALTY_PERCENTAGE": "Percentage",
