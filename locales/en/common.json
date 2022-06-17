@@ -143,5 +143,7 @@
     "COMMON_MONTHS": "Months",
     "COMMON_NO_DESC": "No description",
     "COMMON_NOT_FOUND_DESC": "This page could not be found",
-    "COMMON_BACK_TO_HOME": "Back to the homepage"
+    "COMMON_BACK_TO_HOME": "Back to the homepage",
+    "COMMON_EMPTY_PROPERTIES": "No properties",
+    "COMMON_EMPTY_BIDS": "No bids"
 }
