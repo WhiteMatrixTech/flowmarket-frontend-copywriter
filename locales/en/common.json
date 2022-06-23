@@ -145,5 +145,8 @@
     "COMMON_NOT_FOUND_DESC": "This page could not be found",
     "COMMON_BACK_TO_HOME": "Back to the homepage",
     "COMMON_EMPTY_PROPERTIES": "No properties",
-    "COMMON_EMPTY_BIDS": "No bids"
+    "COMMON_EMPTY_BIDS": "No bids",
+    "COMMON_GET_FEE_ERROR": "Error while get service fee",
+    "COMMON_GENERATE_SUMMARY_ERROR": "Error while generate transaction summary",
+    "COMMON_FEE_CHANGED": "Fee changed, please re-click submit button"
 }
