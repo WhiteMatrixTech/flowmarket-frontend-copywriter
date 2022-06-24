@@ -34,5 +34,7 @@
     "EDIT_COLLECTION_PAGE_FROM_FIELD_ROYALTIES_TIP": "Suggested: 0%, 2.5%, 5%, 10%(max)",
     "CREATE_COLLECTION_PAGE_MODAL_VIEW_COLLECTION": "View Collection",
     "CREATE_COLLECTION_PAGE_MODAL_CREATE_ANOTHER": "Create Another",
-    "CREATE_COLLECTION": "Create Collection"
+    "CREATE_COLLECTION": "Create Collection",
+    "EDIT_COLLECTION_SUS": "Update collection succeed!",
+    "EDIT_COLLECTION_FAILED": "Failed to update collection"
 }
