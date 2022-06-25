@@ -38,5 +38,6 @@
     "EDIT_COLLECTION_SUS": "Update collection succeed!",
     "EDIT_COLLECTION_FAILED": "Failed to update collection",
     "CREATE_COLLECTION_SUS": "Create collection succeed!",
-    "CREATE_COLLECTION_FAILED": "Failed to create collection"
+    "CREATE_COLLECTION_FAILED": "Failed to create collection",
+    "CREATE_COLLECTION_VERIFY_MODAL_TIP": "At present, all collection creation needs to pass Flow's review, which is expected to take about a week. After the deployment permission less deployment opened, no on e needs to go through the review"
 }

@@ -38,5 +38,6 @@
     "EDIT_COLLECTION_SUS": "更新Collection成功",
     "EDIT_COLLECTION_FAILED": "更新Collection失败",
     "CREATE_COLLECTION_SUS": "创建Collection成功",
-    "CREATE_COLLECTION_FAILED": "创建Collection失败"
+    "CREATE_COLLECTION_FAILED": "创建Collection失败",
+    "CREATE_COLLECTION_VERIFY_MODAL_TIP": "目前所有的合集创作都需要通过 Flow 的审核，预计需要一周左右的时间。部署权限less部署开启后，不需要e上的审核"
 }
