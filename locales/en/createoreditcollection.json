@@ -36,5 +36,7 @@
     "CREATE_COLLECTION_PAGE_MODAL_CREATE_ANOTHER": "Create Another",
     "CREATE_COLLECTION": "Create Collection",
     "EDIT_COLLECTION_SUS": "Update collection succeed!",
-    "EDIT_COLLECTION_FAILED": "Failed to update collection"
+    "EDIT_COLLECTION_FAILED": "Failed to update collection",
+    "CREATE_COLLECTION_SUS": "Create collection succeed!",
+    "CREATE_COLLECTION_FAILED": "Failed to create collection"
 }

@@ -36,5 +36,7 @@
     "CREATE_COLLECTION_PAGE_MODAL_CREATE_ANOTHER": "创建另一个",
     "CREATE_COLLECTION": "创建系列",
     "EDIT_COLLECTION_SUS": "更新Collection成功",
-    "EDIT_COLLECTION_FAILED": "更新Collection失败"
+    "EDIT_COLLECTION_FAILED": "更新Collection失败",
+    "CREATE_COLLECTION_SUS": "创建Collection成功",
+    "CREATE_COLLECTION_FAILED": "创建Collection失败"
 }
