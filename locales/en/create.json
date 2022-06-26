@@ -30,5 +30,6 @@
     "CREATE_PAGE_MINT_MODAL_CREATE_ANOTHER": "Create Another",
     "CREATE_PAGE_INCOMPLETE_ROYALTIES": "Incomplete royalties",
     "CREATE_PAGE_INCORRECT_ADDRESS": "Incorrect owner address",
-    "CREATE_PAGE_MINT_FAILED": "Failed to mint"
+    "CREATE_PAGE_MINT_FAILED": "Failed to mint",
+    "CREATE_PAGE_PROPERTIES_TYPE_SAME": "Properties can not contain the same type"
 }
