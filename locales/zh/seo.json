@@ -40,5 +40,7 @@
   "SEO_TITLE_COLL_CREATE": "Matrix Market的创建Collection页面",
   "SEO_DESC_COLL_CREATE": "创建Collection页面的描述",
   "SEO_TITLE_ACTIVITIES": "活动",
-  "SEO_DESC_ACTIVITIES": "活动描述"
+  "SEO_DESC_ACTIVITIES": "活动描述",
+  "SEO_TITLE_FLOWNIA": "Flownia",
+  "SEO_DESC_FLOWNIA": "Flownia页面描述"
 }

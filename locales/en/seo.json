@@ -40,5 +40,7 @@
   "SEO_TITLE_COLL_CREATE": "Create Collection Page | Matrix Market",
   "SEO_DESC_COLL_CREATE": "Create collection page's description",
   "SEO_TITLE_ACTIVITIES": "Activities Page | Matrix Market",
-  "SEO_DESC_ACTIVITIES": "Activities page's description"
+  "SEO_DESC_ACTIVITIES": "Activities page's description",
+  "SEO_TITLE_FLOWNIA": "Flownia Page | Matrix Market",
+  "SEO_DESC_FLOWNIA": "Flownia page's description"
 }
