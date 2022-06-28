@@ -150,5 +150,9 @@
     "COMMON_EMPTY_BIDS": "No bids",
     "COMMON_GET_FEE_ERROR": "Error while get service fee",
     "COMMON_GENERATE_SUMMARY_ERROR": "Error while generate transaction summary",
-    "COMMON_FEE_CHANGED": "Fee changed, please re-click submit button"
+    "COMMON_FEE_CHANGED": "Fee changed, please re-click submit button",
+    "COMMON_REFRESH_METADATA_SUCCESS": "We've queued this item for an update! Check back in a minute...",
+    "COMMON_REFRESH_METADATA_ERROR": "We've encountered some error, please try again later!",
+    "COMMON_METADATA_LACK_TITLE": "Content is not available",
+    "COMMON_METADATA_LACK_SUBTITLE": "Refresh metadata"
 }
