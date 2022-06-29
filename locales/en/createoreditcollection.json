@@ -39,7 +39,8 @@
     "CREATE_COLLECTION": "Create Collection",
     "EDIT_COLLECTION_SUS": "Update collection succeed!",
     "EDIT_COLLECTION_FAILED": "Failed to update collection",
-    "CREATE_COLLECTION_SUS": "Create collection succeed!",
+    "CREATE_COLLECTION_SUS": "Create collection succeed, you can check it on your profile",
     "CREATE_COLLECTION_FAILED": "Failed to create collection",
-    "CREATE_COLLECTION_VERIFY_MODAL_TIP": "At present, all collection creation needs to pass Flow's review, which is expected to take about a week. After the deployment permission less deployment opened, no on e needs to go through the review"
+    "CREATE_COLLECTION_VERIFY_MODAL_TIP": "At present, all collection creation needs to pass Flow's review, which is expected to take about a week. After the deployment permission less deployment opened, no on e needs to go through the review",
+    "CREATE_COLLECTION_MOST_TWO": "There are at most two collections in the application at the same time. You can view them on the profile page"
 }
