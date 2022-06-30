@@ -155,5 +155,5 @@
     "COMMON_REFRESH_METADATA_SUCCESS": "We've queued this item for an update! Check back in a minute...",
     "COMMON_REFRESH_METADATA_ERROR": "We've encountered some error, please try again later!",
     "COMMON_METADATA_LACK_TITLE": "Content is not available",
-    "COMMON_METADATA_LACK_SUBTITLE": "Refresh metadata"
+    "COMMON_METADATA_LACK_SUBTITLE": "Please refresh metadata"
 }
