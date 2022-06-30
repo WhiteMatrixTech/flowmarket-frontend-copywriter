@@ -150,6 +150,8 @@
     "COMMON_EMPTY_PROPERTIES": "没有属性",
     "COMMON_EMPTY_BIDS": "没有竞价",
     "COMMON_GET_FEE_ERROR": "获取手续费失败",
+    "COMMON_OFFER_PRICE_ERROR": "报价不能小于0.001",
+    "COMMON_LIST_PRICE_ERROR": "订单价格不能小于0.001",
     "COMMON_GENERATE_SUMMARY_ERROR": "生成交易摘要失败",
     "COMMON_FEE_CHANGED": "手续费改变，请重新点击提交按钮",
     "COMMON_REFRESH_METADATA_SUCCESS": "我们已经将该NFT置于刷新列表中，请稍后再次检查",

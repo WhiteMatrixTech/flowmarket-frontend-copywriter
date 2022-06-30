@@ -150,6 +150,8 @@
     "COMMON_EMPTY_PROPERTIES": "No properties",
     "COMMON_EMPTY_BIDS": "No bids",
     "COMMON_GET_FEE_ERROR": "Error while get service fee",
+    "COMMON_OFFER_PRICE_ERROR": "Order price cannot be less than 0.001",
+    "COMMON_LIST_PRICE_ERROR": "List price cannot be less than 0.001",
     "COMMON_GENERATE_SUMMARY_ERROR": "Error while generate transaction summary",
     "COMMON_FEE_CHANGED": "Fee changed, please re-click submit button",
     "COMMON_REFRESH_METADATA_SUCCESS": "We've queued this item for an update! Check back in a minute...",
