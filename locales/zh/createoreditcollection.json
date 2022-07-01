@@ -42,5 +42,7 @@
     "CREATE_COLLECTION_SUS": "创建收藏成功,可以在个人中心中查看",
     "CREATE_COLLECTION_FAILED": "创建收藏失败",
     "CREATE_COLLECTION_VERIFY_MODAL_TIP": "目前所有的合集创作都需要通过 Flow 的审核，预计需要一周左右的时间。部署权限less部署开启后,不需要审核",
-    "CREATE_COLLECTION_MOST_TWO": "最多同时有两个在申请中的收藏，你可以在个人信息页面中查看"
+    "CREATE_COLLECTION_MOST_TWO": "最多同时有两个在申请中的收藏，你可以在个人信息页面中查看",
+    "CREATE_COLLECTION_BUTTON_TEXT": "创建",
+    "CREATE_COLLECTION_CHECK_TIP_MODAL_TITLE": "创建中"
 }
