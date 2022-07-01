@@ -17,6 +17,7 @@
     "MENU_BLOG": "Blog",
     "MENU_FAQ": "FAQ",
     "MENU_ABOUT_US": "About Us",
-    "MENU_ABOUT_MARKET": "About Matrix Market",
-    "MENU_CONTACT_US": "Contact Us"
+    "MENU_ABOUT_MARKET": "About Matrix Labs",
+    "MENU_CONTACT_US": "Contact Us",
+    "MENU_SHOW_SOON": "soon"
 }
