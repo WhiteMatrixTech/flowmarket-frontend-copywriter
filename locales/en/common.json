@@ -19,6 +19,7 @@
     "COMMON_PLACEHOLDER": "Please enter {{fieldName}}",
     "COMMON_SUBMIT_TEXT": "Submit",
     "COMMON_OPTIONAL": "Optional",
+    "COMMON_REQUIRED": "Required",
     "COMMON_SUBSCRIBE_TITLE": "Get the latest Matrix Market updates",
     "COMMON_SUBSCRIBE_INPUT_PLACEHOLDER": "Your e-mail",
     "COMMON_SUBSCRIBE_BUTTON": "I'm in",
