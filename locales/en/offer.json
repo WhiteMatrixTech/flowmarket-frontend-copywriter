@@ -1,0 +1,11 @@
+{
+  "OFFER_TYPE_MADE": "Offers Made",
+  "OFFER_TYPE_RECEIVED": "Offers Received",
+  "OFFER_TABLE_FIELD_ITEMS": "Items",
+  "OFFER_TABLE_FIELD_PRICE": "Price",
+  "OFFER_TABLE_FIELD_FROM": "From",
+  "OFFER_TABLE_FIELD_TO": "To",
+  "OFFER_TABLE_FIELD_EXPIRE_TIME": "Expiration",
+  "OFFER_TABLE_FIELD_TIME": "Time",
+  "OFFER_TABLE_FIELD_OPERATION": "Operation"
+}
