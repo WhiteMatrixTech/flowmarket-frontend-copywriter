@@ -162,5 +162,15 @@
     "COMMON_REFRESH_METADATA_ERROR": "We've encountered some error, please try again later!",
     "COMMON_METADATA_LACK_TITLE": "Content is not available",
     "COMMON_METADATA_LACK_SUBTITLE": "Please refresh metadata",
-    "COMMON_GET_STORAGE_PATH_ERROR": "Error while get collection storage path"
+    "COMMON_GET_STORAGE_PATH_ERROR": "Error while get collection storage path",
+    "COMMON_REPORT": "Report",
+    "COMMON_REPORT_MODAL_TITLE": "Why are you reporting",
+    "COMMON_REPORT_PLEASE_SELECT": "Please Select",
+    "COMMON_REPORT_I_THINK_ITEM": "I think this item is",
+    "COMMON_REPORT_I_THINK_COLLECTION": "I think this collection is",
+    "COMMON_REPORT_REASON_FAKE": "Fake collection or possible scam",
+    "COMMON_REPORT_REASON_EXPLICIT": "Explicit and sensitive content",
+    "COMMON_REPORT_REASON_SPAM": "Spam",
+    "COMMON_REPORT_REASON_OTHERS": "Others",
+    "COMMON_REPORT_REASON_TELL_US": "Tell us some details"
 }
