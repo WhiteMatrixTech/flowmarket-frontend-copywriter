@@ -43,5 +43,6 @@
     "COLLECTION_NFT_MODAL_TOTAL_PAY": "Total Pay",
     "COLLECTION_NFT_HIGHEST_OFFER": "Highest Offer",
     "COLLECTION_NFT_BID_ACCEPT": "Accept",
-    "COLLECTION_NFT_BID_CANCELED": "Cancelled"
+    "COLLECTION_NFT_BID_CANCELED": "Cancelled",
+    "COLLECTION_REFRESH_METADATA": "Refresh metadata"
 }
