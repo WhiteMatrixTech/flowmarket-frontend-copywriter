@@ -30,5 +30,10 @@
   "PROFILE_CREATE_COLLECTION_REJECTED_MODAL_TITLE": "Confirmation",
   "PROFILE_CREATE_COLLECTION_REJECTED_MODAL_CONTENT": "Your application was not accepted. If you need to submit it again, please manually delete this record and submit your application again.",
   "PROFILE_CREATE_COLLECTION_DELETE_SUCCESS": "Delete collection success!",
-  "PROFILE_CREATE_COLLECTION_DELETE_FAILED": "Delete collection failed, please try again!"
+  "PROFILE_CREATE_COLLECTION_DELETE_FAILED": "Delete collection failed, please try again!",
+  "PROFILE_SETTING_FORM_VERIFY": "Verify",
+  "PROFILE_SETTING_FORM_VERIFIED": "Verified",
+  "PROFILE_SETTING_CODE": "Code",
+  "PROFILE_SETTING_CONFIRM": "Confirm",
+  "PROFILE_SETTING_RECENT": "Recent"
 }
