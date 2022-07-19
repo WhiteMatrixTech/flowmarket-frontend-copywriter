@@ -40,5 +40,6 @@
   "PROFILE_SETTING_CODE_SEND_SUCC": "Send code succeed!",
   "PROFILE_SETTING_CODE_SEND_FAILED": "Failed to send code, please try again!",
   "PROFILE_SETTING_EMAIL_BIND_SUCC": "Bind email succeed!",
-  "PROFILE_SETTING_EMAIL_BIND_FAILED": "Failed to bind email {{message}}"
+  "PROFILE_SETTING_EMAIL_BIND_FAILED": "Failed to bind email {{message}}",
+  "PROFILE_SETTING_INVALID_CODE": "Invalid code"
 }
