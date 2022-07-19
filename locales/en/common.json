@@ -172,5 +172,6 @@
     "COMMON_REPORT_REASON_EXPLICIT": "Explicit and sensitive content",
     "COMMON_REPORT_REASON_SPAM": "Spam",
     "COMMON_REPORT_REASON_OTHERS": "Others",
-    "COMMON_REPORT_REASON_TELL_US": "Tell us some details"
+    "COMMON_REPORT_REASON_TELL_US": "Tell us some details",
+    "COMMON_FLOWNIA_MINT_CANCEL": "Cancel"
 }
