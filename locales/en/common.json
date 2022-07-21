@@ -25,6 +25,8 @@
     "COMMON_SUBSCRIBE_BUTTON": "I'm in",
     "COMMON_COPYRIGHT_YEAR": "Copyright 2022",
     "COMMON_COPYRIGHT_COMPANY": "Matrix Labs.",
+    "COMMON_PRIVACY_POLICY": "Privacy Policy",
+    "COMMON_TERMS_OF_SERVICE": "Terms of Service",
     "COMMON_COPY_TITLE": "Copy",
     "COMMON_COPY_SUS": "Copied!",
     "COMMON_CONNECT_BLOCTO_WALLET_FAILED": "Connection failed, please try again.",

@@ -25,6 +25,8 @@
     "COMMON_SUBSCRIBE_BUTTON": "订阅",
     "COMMON_COPYRIGHT_YEAR": "©保留所有权利。",
     "COMMON_COPYRIGHT_COMPANY": "由Matrix Labs制作",
+    "COMMON_PRIVACY_POLICY": "隐私政策",
+    "COMMON_TERMS_OF_SERVICE": "服务条款",
     "COMMON_COPY_TITLE": "复制",
     "COMMON_COPY_SUS": "复制成功!",
     "COMMON_CONNECT_BLOCTO_WALLET_FAILED": "连接钱包失败，请重试!",
