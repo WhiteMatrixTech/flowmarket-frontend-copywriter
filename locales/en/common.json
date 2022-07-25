@@ -174,7 +174,10 @@
     "COMMON_REPORT_REASON_FAKE": "Fake collection or possible scam",
     "COMMON_REPORT_REASON_EXPLICIT": "Explicit and sensitive content",
     "COMMON_REPORT_REASON_SPAM": "Spam",
-    "COMMON_REPORT_REASON_OTHERS": "Others",
+    "COMMON_REPORT_REASON_WRONG_CATEGORY": "In the wrong category",
+    "COMMON_REPORT_REASON_OTHERS": "Other",
     "COMMON_REPORT_REASON_TELL_US": "Tell us some details",
+    "COMMON_REPORT_FAILED": "Report failed",
+    "COMMON_REPORT_SUS": "Report successful",
     "COMMON_FLOWNIA_MINT_CANCEL": "Cancel"
 }
