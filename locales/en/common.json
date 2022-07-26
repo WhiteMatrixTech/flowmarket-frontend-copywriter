@@ -1,5 +1,6 @@
 {
     "COMMON_LANGUAGE": "LANGUAGE",
+    "COMMON_THEME_DARK_MODE": "Night Mode",
     "COMMON_MARKET_NAME": "Matrix Market",
     "COMMON_SEARCH_PLACEHOLDER": "Search collections, items or addresses",
     "COMMON_BALANCE": "Balance",

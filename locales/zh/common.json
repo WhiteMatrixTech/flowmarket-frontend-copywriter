@@ -1,5 +1,6 @@
 {
     "COMMON_LANGUAGE": "语言",
+    "COMMON_THEME_DARK_MODE": "暗夜模式",
     "COMMON_MARKET_NAME": "Matrix Market",
     "COMMON_SEARCH_PLACEHOLDER": "输入收藏品系列、名称、地址进行搜索",
     "COMMON_BALANCE": "余额",
