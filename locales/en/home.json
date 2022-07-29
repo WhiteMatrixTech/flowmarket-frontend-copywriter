@@ -10,5 +10,6 @@
     "HOME_SECTION_TOP_COLLECTION_FLOOR_PRICE": "Floor price: ",
     "HOME_GO_TO_RANK_BUTTON_TEXT": "Go to Rankings",
     "HOME_SECTION_HOT_COLLECTIONS": "Hot collections",
-    "HOME_BANNER_TEXT": "<span>Service fees reduced to 1.5% for July AND all <a href='https://hype.day/p/common-tier-flownia-raffle' target='_blank' style='text-decoration:underline;'>registered</a> users will be entered into a Flownia NFT raffle with up to 7,000 winners!</span>"
+    "HOME_BANNER_TEXT": "<span>Service fees reduced to 1.5% for July AND all <a href='https://hype.day/p/common-tier-flownia-raffle' target='_blank' style='text-decoration:underline;'>registered</a> users will be entered into a Flownia NFT raffle with up to 7,000 winners!</span>",
+    "HOME_BANNER_TEXT_SECOND": "Our FREE permissionless collection creation tool is LIVE NOW! <a href='/collection/create' style='text-decoration:underline;'>Create</a> your own NFT collection in under 5m!"
 }
