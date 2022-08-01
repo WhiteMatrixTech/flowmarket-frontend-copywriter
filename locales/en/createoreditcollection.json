@@ -31,6 +31,7 @@
     "CREATE_PAGE_NAME_INVALID": "Name is invalid，input value does not conform to variable naming conventions",
     "CREATE_PAGE_ROYALTY_INVALID": "Royalty is invalid",
     "CREATE_PAGE_ROYALTY_MAX_10_PERCENTAGE": "Total royalties must not exceed 10%",
+    "CREATE_PAGE_ROYALTY_REPEAT": "Duplicate royalty address",
     "EDIT_COLLECTION_PAGE_ROYALTY_TITLE": "Royalties",
     "EDIT_COLLECTION_PAGE_ROYALTY_ADDRESS": "Address",
     "EDIT_COLLECTION_PAGE_ROYALTY_PERCENTAGE": "Percentage",
