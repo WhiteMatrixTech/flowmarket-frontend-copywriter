@@ -183,5 +183,9 @@
     "COMMON_REPORT_REASON_TELL_US": "Tell us some details",
     "COMMON_REPORT_FAILED": "Report failed",
     "COMMON_REPORT_SUS": "Report successful",
-    "COMMON_FLOWNIA_MINT_CANCEL": "Cancel"
+    "COMMON_FLOWNIA_MINT_CANCEL": "Cancel",
+    "COMMON_WALLET_LOGIN_MODAL_TITLE": "Connect Wallet",
+    "COMMON_WALLET_LOGIN_MODAL_TIP": "Choose how you want to connect",
+    "COMMON_WALLET_LOGIN_MODAL_LOGIN_RULE": "By logging in, you agree to our",
+    "COMMON_WALLET_LOGIN_MODAL_LOGIN_RULE_AND": "and"
 }
