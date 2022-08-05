@@ -189,5 +189,6 @@
     "COMMON_WALLET_LOGIN_MODAL_TITLE": "Connect Wallet",
     "COMMON_WALLET_LOGIN_MODAL_TIP": "Choose how you want to connect",
     "COMMON_WALLET_LOGIN_MODAL_LOGIN_RULE": "By logging in, you agree to our",
-    "COMMON_WALLET_LOGIN_MODAL_LOGIN_RULE_AND": "and"
+    "COMMON_WALLET_LOGIN_MODAL_LOGIN_RULE_AND": "and",
+    "COMMON_METADATA_NO_THUMBNAIL": "No thumbnail"
 }
