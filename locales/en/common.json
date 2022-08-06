@@ -103,6 +103,7 @@
     "COMMON_CONTRACT_INTERACT_MODAL_SELL_DESC": "In the process of creating a price list on the Flow blockchain",
     "COMMON_CONTRACT_INTERACT_MODAL_SELL_NO_TOKEN_ID": "No Token ID",
     "COMMON_SELL_PARAMS_MODAL_INPUT_PD": "Amount",
+    "COMMON_MAKE_OFFER_MODAL_INPUT_PD": "Amount",
     "COMMON_SELL_PARAMS_MODAL_INPUT_INCORRECT": "The list price is not correct",
     "COMMON_MAKE_OFFER_MODAL_INPUT_INCORRECT": "Bid price incorrect",
     "COMMON_SELL_PARAMS_MODAL_LIST_NOW": "List Now",
