@@ -129,6 +129,7 @@
     "COMMON_INTERACT_BUY_NO_NEED": "You don't need to buy. You already have the current item",
     "COMMON_INTERACT_BUY_NOT_ON_LIST": "The current item is not on the shelf",
     "COMMON_INTERACT_BUY_INCORRECT_LIST_PRICE": "Incorrect list price",
+    "COMMON_INTERACT_ALREADY_LIST": "The current item is already listed",
     "COMMON_ACTIVITY_TABLE_FIELD_ITEMS": "Items",
     "COMMON_ACTIVITY_TABLE_FIELD_PRICE": "Price",
     "COMMON_ACTIVITY_TABLE_FIELD_QUANTITY": "Quantity",
