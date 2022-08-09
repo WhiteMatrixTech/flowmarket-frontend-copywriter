@@ -67,7 +67,7 @@
     "COMMON_MINT_CONGRATULATION_DESC": "恭喜您成功铸造一个新的NFT",
     "COMMON_MINT_FLOWNIA_NFT_DESC": "恭喜您成功铸造Flownia的NFT",
     "COMMON_MINT_FLOWVERSE_NFT_DESC": "恭喜您成功铸造Flowverse的NFT",
-    "COMMON_NOT_HAVE_FLOWVERSE": "您没有任何RaribleNFT, 无法进行Flowverse的铸造",
+    "COMMON_NOT_HAVE_FLOWVERSE": "您没有指定的Rarible NFT, 无法进行Flowverse Socks的铸造",
     "COMMON_CREATE_NEW_COLL_CONGRATULATION_DESC": "恭喜您成功创建一个新的系列",
     "COMMON_SIGN_MSG": "欢迎来到 Matrix Market! 这个签名请求将不会触发区块链交易或消耗gas费. 签名有效期为2小时. 钱包地址: {{address}}. 签名Nonce: {{nonce}}",
     "COMMON_ACTIVITY_TYPE_BURN": "销毁",
