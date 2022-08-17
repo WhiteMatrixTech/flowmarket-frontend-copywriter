@@ -15,6 +15,7 @@
   "PROFILE_SETTING_FORM_EMAIL_TITLE": "Email",
   "PROFILE_SETTING_FORM_BIO_PD": "Tell the world who you are!",
   "PROFILE_SETTING_FORM_EMAIL_PD": "Please enter your email",
+  "PROFILE_SETTING_FORM_EMAIL_VERIFY_CODE_PD": "Please enter the Verification Code",
   "PROFILE_SETTING_FORM_LOGO_TITLE": "Logo Image",
   "PROFILE_SETTING_FORM_LOGO_SUBTITLE": "This image will be used for navigation. 350 x 350 recommended.",
   "PROFILE_SETTING_FORM_FEATURED_TITLE": "Featured Image",
@@ -34,12 +35,15 @@
   "PROFILE_SETTING_FORM_VERIFY": "Verify",
   "PROFILE_SETTING_FORM_VERIFIED": "Verified",
   "PROFILE_SETTING_CODE": "Code",
-  "PROFILE_SETTING_CONFIRM": "Confirm",
+  "PROFILE_SETTING_SUBMIT": "Submit",
   "PROFILE_SETTING_RECENT": "Recent",
+  "PROFILE_SETTING_CODE_SEND": "Send",
   "PROFILE_SETTING_CODE_SENDING": "Sending",
   "PROFILE_SETTING_CODE_SEND_SUCC": "Send code succeed!",
   "PROFILE_SETTING_CODE_SEND_FAILED": "Failed to send code, please try again!",
   "PROFILE_SETTING_EMAIL_BIND_SUCC": "Bind email succeed!",
   "PROFILE_SETTING_EMAIL_BIND_FAILED": "Failed to bind email {{message}}",
-  "PROFILE_SETTING_INVALID_CODE": "Invalid code"
+  "PROFILE_SETTING_INVALID_CODE": "Invalid code",
+  "PROFILE_SETTING_VERIFY_YOUR_EMAIL": "Verify Your Email",
+  "PROFILE_SETTING_EMAIL_EDIT": "Edit"
 }
