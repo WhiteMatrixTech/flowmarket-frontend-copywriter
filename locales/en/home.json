@@ -3,13 +3,13 @@
     "HOME_MARKET_DESC": "The first all-in-one marketplace for creators, collectors, and traders on Flow",
     "HOME_CREATE_BUTTON_TEXT": "Create",
     "HOME_MARKET_BUTTON_TEXT": "Explore",
-    "HOME_SECTION_LATEST_TITLE": "Recommend",
+    "HOME_SECTION_LATEST_TITLE": "Hot Collection",
     "HOME_SECTION_HOT_BIDS_TITLE": "Explore",
     "HOME_SECTION_TOP_COLLECTION": "Top collections in",
     "HOME_SECTION_TOP_COLLECTION_DAY": "day",
     "HOME_SECTION_TOP_COLLECTION_FLOOR_PRICE": "Floor price: ",
     "HOME_GO_TO_RANK_BUTTON_TEXT": "Go to Rankings",
-    "HOME_SECTION_HOT_COLLECTIONS": "Hot collections",
+    "HOME_SECTION_HOT_COLLECTIONS": "Recommend collections",
     "HOME_BANNER_TEXT": "<span>Service fees reduced to 1.5% for August!</span>",
     "HOME_BANNER_TEXT_SECOND": "Our FREE permissionless collection creation tool is LIVE NOW! <a href='/collection/create' style='text-decoration:underline;'>Create</a> your own NFT collection in under 5m!"
 }

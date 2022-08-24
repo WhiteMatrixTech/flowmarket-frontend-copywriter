@@ -3,13 +3,13 @@
     "HOME_MARKET_DESC": "The first all-in-one marketplace for creators, collectors, and traders on Flow",
     "HOME_CREATE_BUTTON_TEXT": "创建",
     "HOME_MARKET_BUTTON_TEXT": "市场",
-    "HOME_SECTION_LATEST_TITLE": "推荐",
+    "HOME_SECTION_LATEST_TITLE": "热门系列",
     "HOME_SECTION_HOT_BIDS_TITLE": "浏览",
     "HOME_SECTION_TOP_COLLECTION": "最高销量：",
     "HOME_SECTION_TOP_COLLECTION_DAY": "天",
     "HOME_SECTION_TOP_COLLECTION_FLOOR_PRICE": "最低价：",
     "HOME_GO_TO_RANK_BUTTON_TEXT": "查看更多排名",
-    "HOME_SECTION_HOT_COLLECTIONS": "热门收藏",
+    "HOME_SECTION_HOT_COLLECTIONS": "推荐系列",
     "HOME_BANNER_TEXT": "<span>8月服务费降至 1.5%！</span>",
     "HOME_BANNER_TEXT_SECOND": "我们免费的无许可合约创建工具现已上线！在 5分钟 内 <a href='/collection/create' style='text-decoration:underline;'>创建</a> 您自己的 NFT 收藏！"
 }
