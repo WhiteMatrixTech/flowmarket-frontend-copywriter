@@ -201,5 +201,6 @@
     "COMMON_EXPLORE_NFTS": "NFTs",
     "COMMON_EXPLORE_COLLECTIONS": "Collections",
     "COMMON_FILTER_CATEGORY": "Category",
-    "COMMON_FILTER_COLLECTION": "Collection"
+    "COMMON_FILTER_COLLECTION": "Collection",
+    "COMMON_TOTAL_VOLUME": "Total volume"
 }
