@@ -45,6 +45,7 @@
     "COMMON_WALLET_SWITCH_BTN_TEXT": "Switch wallet",
     "COMMON_WALLET_INSTALL_LILICO_BTN_TEXT": "Install Lilico",
     "COMMON_CONNECT_WALLET_INIT": "Please approve the signature request init",
+    "COMMON_GET_COLLECTION_CONFIG_ERROR": "Error while get collection config",
     "COMMON_WALLET_UNABLE_GET_SIGN_INFO": "Unable to get signature information",
     "COMMON_TIME_LESS_A_MINUTE_AGO": "less than a minute",
     "COMMON_TIME_LESS_A_MINUTE_LEFT": "less than a minute left",
