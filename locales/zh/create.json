@@ -32,6 +32,9 @@
     "CREATE_PAGE_INCOMPLETE_ROYALTIES": "版税填写不完整",
     "CREATE_PAGE_INCORRECT_ADDRESS": "版税拥有者地址不正确",
     "CREATE_PAGE_MINT_FAILED": "铸造失败",
-    "CREATE_PAGE_PROPERTIES_TYPE_SAME": "属性不能包含相同的类型"
-
+    "CREATE_PAGE_PROPERTIES_TYPE_SAME": "属性不能包含相同的类型",
+    "CREATE_PAGE_TIP_MODAL_TITLE": "警告!",
+    "CREATE_PAGE_TIP_MODAL_DESC": "目前，您无法销毁或编辑使用此工具创建的 NFT。请在铸造前验证 NFT 信息是否正确。我们正在开发一个销毁功能，并将在不久的将来发布它。",
+    "CREATE_PAGE_TIP_MODAL_CONFIRM": "确认",
+    "CREATE_PAGE_TIP_MODAL_RETURN": "返回"
 }
