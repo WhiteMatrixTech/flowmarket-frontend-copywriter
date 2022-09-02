@@ -31,5 +31,8 @@
     "CREATE_PAGE_INCOMPLETE_ROYALTIES": "Incomplete royalties",
     "CREATE_PAGE_INCORRECT_ADDRESS": "Incorrect owner address",
     "CREATE_PAGE_MINT_FAILED": "Failed to mint",
-    "CREATE_PAGE_PROPERTIES_TYPE_SAME": "Properties can not contain the same type"
+    "CREATE_PAGE_PROPERTIES_TYPE_SAME": "Properties can not contain the same type","CREATE_PAGE_TIP_MODAL_TITLE": "Warning!",
+    "CREATE_PAGE_TIP_MODAL_DESC": "At this time, you are not able to burn or edit NFTs created with this tool. Please verify that the NFT data and collection are correct before minting. We are working on a burn feature and will release it in the near future.",
+    "CREATE_PAGE_TIP_MODAL_CONFIRM": "Confirm",
+    "CREATE_PAGE_TIP_MODAL_RETURN": "Return"
 }
