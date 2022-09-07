@@ -47,6 +47,6 @@
   "PROFILE_SETTING_EMAIL_BIND_FAILED": "Failed to bind email {{message}}",
   "PROFILE_SETTING_INVALID_CODE": "Invalid code",
   "PROFILE_SETTING_VERIFY_YOUR_EMAIL": "Verify Your Email",
-  "PROFILE_SETTING_EMAIL_EDIT": "Edit",
+  "PROFILE_SETTING_EMAIL_EDIT": "Change",
   "PROFILE_SETTING_EMAIL_INCORRECT": "Incorrect email address"
 }
