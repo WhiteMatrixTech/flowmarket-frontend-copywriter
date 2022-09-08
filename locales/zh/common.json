@@ -208,10 +208,11 @@
     "COMMON_FILTER_CATEGORY": "分类",
     "COMMON_FILTER_COLLECTION": "收藏",
     "COMMON_TOTAL_VOLUME": "总交易额",
-    "COMMON_TRANSFER_MODAL_TIP": "您可以将 Token 从您的地址转移到另一个地址",
+    "COMMON_TRANSFER_MODAL_TIP": "您可以将 Token 从您的地址转移到另一个地址,请确认接收者地址已经初始化当前collection。",
     "COMMON_TRANSFER_MODAL_ADDRESS": "接收者地址",
     "COMMON_TRANSFER_MODAL_PASTE_ADDRESS": "粘贴地址",
     "COMMON_TRANSFER_MODAL_CONTINUE": "继续",
     "COMMON_TRANSFER_MODAL_CANCEL": "取消",
-    "COMMON_TRANSFER_MODAL_SUS": "转移成功!"
+    "COMMON_TRANSFER_MODAL_SUS": "转移成功!",
+    "COMMON_TRANSFER_INVALID_FLOW_ADDRESS": "不正确的Flow钱包地址"
 }

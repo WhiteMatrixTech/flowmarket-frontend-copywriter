@@ -208,10 +208,11 @@
     "COMMON_FILTER_CATEGORY": "Category",
     "COMMON_FILTER_COLLECTION": "Collection",
     "COMMON_TOTAL_VOLUME": "Total volume",
-    "COMMON_TRANSFER_MODAL_TIP": "You can transfer tokens from your address to another",
-    "COMMON_TRANSFER_MODAL_ADDRESS": "Receive address",
+    "COMMON_TRANSFER_MODAL_TIP": "You can transfer tokens from your address to another. Please confirm that the recipient address has initialized the current collection!",
+    "COMMON_TRANSFER_MODAL_ADDRESS": "Recipient address",
     "COMMON_TRANSFER_MODAL_PASTE_ADDRESS": "Paste address",
     "COMMON_TRANSFER_MODAL_CONTINUE": "Continue",
     "COMMON_TRANSFER_MODAL_CANCEL": "Cancel",
-    "COMMON_TRANSFER_MODAL_SUS": "Transfer succeed!"
+    "COMMON_TRANSFER_MODAL_SUS": "Transfer succeed!",
+    "COMMON_TRANSFER_INVALID_FLOW_ADDRESS": "Incorrect flow wallet address"
 }
