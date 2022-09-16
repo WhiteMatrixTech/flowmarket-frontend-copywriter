@@ -96,6 +96,7 @@
     "COMMON_SALE_TYPE_ALL": "all",
     "COMMON_CONTRACT_INTERACT_MODAL_BUY_TITLE": "Purchasing",
     "COMMON_CONTRACT_INTERACT_MODAL_MAKE_OFFER_TITLE": "Offering",
+    "COMMON_CONTRACT_INTERACT_MODAL_TRANSFER_TITLE": "Transferring",
     "COMMON_CONTRACT_INTERACT_MODAL_BUY_SUBTITLE": "In purchase",
     "COMMON_CONTRACT_INTERACT_MODAL_BUY_DESC": "In the process of purchase list on the Flow blockchain",
     "COMMON_CONTRACT_INTERACT_MODAL_CANCEL_LIST_TITLE": "Canceling",
@@ -153,6 +154,7 @@
     "COMMON_LIST_TIP": "Enter new price. Your NFT will be pushed in top of MatrixMarket.",
     "COMMON_MODAL_CANCEL": "Cancel",
     "COMMON_MODAL_MAKE_OFFER_TITLE": "Make An Offer",
+    "COMMON_MODAL_TRANSFER_TITLE": "Transfer Token",
     "COMMON_MODAL_MAKE_OFFER_BTN_TEXT": "Make Offer Now",
     "COMMON_BALANCE_NOT_ENOUGH": "Balance is not enough",
     "COMMON_OFFER_ACCEPT_BTN_TEXT": "Accept",
@@ -205,5 +207,12 @@
     "COMMON_EXPLORE_COLLECTIONS": "Collections",
     "COMMON_FILTER_CATEGORY": "Category",
     "COMMON_FILTER_COLLECTION": "Collection",
-    "COMMON_TOTAL_VOLUME": "Total volume"
+    "COMMON_TOTAL_VOLUME": "Total volume",
+    "COMMON_TRANSFER_MODAL_TIP": "You can transfer tokens from your address to another. Please confirm that the recipient address has initialized the current collection!",
+    "COMMON_TRANSFER_MODAL_ADDRESS": "Recipient address",
+    "COMMON_TRANSFER_MODAL_PASTE_ADDRESS": "Paste address",
+    "COMMON_TRANSFER_MODAL_CONTINUE": "Continue",
+    "COMMON_TRANSFER_MODAL_CANCEL": "Cancel",
+    "COMMON_TRANSFER_MODAL_SUS": "Transfer succeed!",
+    "COMMON_TRANSFER_INVALID_FLOW_ADDRESS": "Incorrect flow wallet address"
 }
