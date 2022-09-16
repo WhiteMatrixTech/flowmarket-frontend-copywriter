@@ -45,5 +45,5 @@
     "COLLECTION_NFT_BID_ACCEPT": "Accept",
     "COLLECTION_NFT_BID_CANCELED": "Cancelled",
     "COLLECTION_REFRESH_METADATA": "Refresh metadata",
-    "COLLECTION_NOT_ON_SHELF": "Not on the shelf"
+    "COLLECTION_NOT_ON_SHELF": "Not listed for sale"
 }
