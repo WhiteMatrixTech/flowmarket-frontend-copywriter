@@ -7,7 +7,7 @@ const globalConfig = {
     },
     cloudflareAssets: {
         defaultGradientImg: "https://d8pvwwqlravyw.cloudfront.net/media/KxWwzATyyEfCBaMnWedNW_IMAGE.png",
-        hotCollectionCardGradientImg: 'https://d8pvwwqlravyw.cloudfront.net/media/mPWjEKSye9C0A2vt4u4OW_IMAGE.png',
+        hotCollectionCardGradientImg: 'https://dy8ckr8o2pye7.cloudfront.net/common/hotCollectionCardGradientImg.png',
         matrixLogoImg: 'https://d8pvwwqlravyw.cloudfront.net/media/IxjcM8sug8XJAQJW_fCcc_IMAGE.png',
         flowNiaBannerBg: 'https://d8pvwwqlravyw.cloudfront.net/media/DXLY7JKQSouBcHl6AN-Co_IMAGE.png',
         flowNiaVideo: 'https://dy8ckr8o2pye7.cloudfront.net/media/flownia.mp4',
