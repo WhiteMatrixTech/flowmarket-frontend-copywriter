@@ -71,6 +71,7 @@
     "COMMON_NOT_HAVE_FLOWVERSE": "You don't have a Rarible NFT specified, can't mint Flowverse Socks",
     "COMMON_CREATE_NEW_COLL_CONGRATULATION_DESC": "Congratulations on successfully creating a new collection",
     "COMMON_SIGN_MSG": "Welcome to Matrix Market! This request will not trigger a blockchain transaction or cost any gas fees. Your authentication status will reset after 2 hours. Wallet address: {{address}} Nonce: {{nonce}}",
+    "COMMON_ACTIVITY_EVENT_TYPE": "Event Type",
     "COMMON_ACTIVITY_TYPE_BURN": "burn",
     "COMMON_ACTIVITY_TYPE_TRANSFER": "transfer",
     "COMMON_ACTIVITY_TYPE_LIST": "list",
