@@ -14,6 +14,8 @@ const globalConfig = {
         flowNiaVideo: 'https://dy8ckr8o2pye7.cloudfront.net/media/flownia.mp4',
         flowNiaVideoPoster: 'https://dy8ckr8o2pye7.cloudfront.net/media/flownia-video-poster.png',
         flowNiaARVideo: 'https://dy8ckr8o2pye7.cloudfront.net/media/nft/flownia/AR-effect-rare-2.mp4',
+        flowNiaItemLogo: 'https://dy8ckr8o2pye7.cloudfront.net/flowNia/flownia_item_logo.png',
+        flowNiaSynthesisSmallCardImg: 'https://dy8ckr8o2pye7.cloudfront.net/flowNia/synthesis_small_card.png',
         matrixLogoNew: 'https://dy8ckr8o2pye7.cloudfront.net/media/logo.png',
         bl0xVideo: 'https://dy8ckr8o2pye7.cloudfront.net/Bl0x/Matrix-Launch-Header-animation.mp4',
         bl0xVideoPoster: 'https://dy8ckr8o2pye7.cloudfront.net/Bl0x/Bl0x-video-poster.png'
