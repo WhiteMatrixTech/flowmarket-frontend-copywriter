@@ -1,5 +1,6 @@
 {
-  "OFFER_TYPE_MADE": "出价",
+  "OFFER_TYPE": "报价类型",
+  "OFFER_TYPE_MADE": "我的出价",
   "OFFER_TYPE_RECEIVED": "收到的报价",
   "OFFER_TABLE_FIELD_ITEMS": "物品",
   "OFFER_TABLE_FIELD_PRICE": "价格",
