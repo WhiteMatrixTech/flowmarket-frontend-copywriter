@@ -12,6 +12,7 @@
     "COMMON_SEARCH_NO_RESULTS": "未找到记录",
     "COMMON_SEARCH_NO_RESULTS_DESC": "根据关键字 '{{query}}' 在 {{tabName}} 里没有搜索到结果",
     "COMMON_COMPONENT_BUY_NOW": "立即购买",
+    "COMMON_COMPONENT_SUB_COLLECTION": "子系列",
     "COMMON_COMPONENT_VIEW_DETAIL": "查看详情",
     "COMMON_COMPONENT_MAKE_OFFER": "报价",
     "COMMON_COMPONENT_PRICE": "价格",

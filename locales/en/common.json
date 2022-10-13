@@ -12,6 +12,7 @@
     "COMMON_SEARCH_NO_RESULTS": "No results",
     "COMMON_SEARCH_NO_RESULTS_DESC": "There are no search results for '{{query}}'",
     "COMMON_COMPONENT_BUY_NOW": "Buy Now",
+    "COMMON_COMPONENT_SUB_COLLECTION": "Sub Collection",
     "COMMON_COMPONENT_VIEW_DETAIL": "View Details",
     "COMMON_COMPONENT_MAKE_OFFER": "Make Offer",
     "COMMON_COMPONENT_PRICE": "Price",
