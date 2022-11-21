@@ -11,6 +11,5 @@
     "HOME_GO_TO_RANK_BUTTON_TEXT": "Go to Rankings",
     "HOME_SECTION_HOT_COLLECTIONS": "Recommend collections",
     "HOME_BANNER_TEXT": "<span>Service fees reduced to 1.5% for {{month}}!</span>",
-    "HOME_BANNER_TEXT_SECOND": "Our FREE permissionless collection creation tool is LIVE NOW! <a href='/collection/create' style='text-decoration:underline;'>Create</a> your own NFT collection in under 5m!",
-    "HOME_BANNER_TEXT_THIRD": "SECURITY UPDATE: Please reconnect your wallet to apply the security update!"
+    "HOME_BANNER_TEXT_SECOND": "Our FREE permissionless collection creation tool is LIVE NOW! <a href='/collection/create' style='text-decoration:underline;'>Create</a> your own NFT collection in under 5m!"
 }
