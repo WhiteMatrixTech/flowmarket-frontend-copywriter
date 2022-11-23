@@ -3,6 +3,8 @@
   "SECURITY_CONNECT_WALLET": "Connect Wallet",
   "SECURITY_SAFE": "Your account is safe",
   "SECURITY_RISK": "Your account is at risk, please repair now !",
+  "SECURITY_RISK_REPAIR_SUCCEED": "Your account security has been repaired.",
+  "SECURITY_RISK_REPAIR_FAILED": "Repair failed, please try again",
   "SECURITY_REPAIR": "Repair Now!",
   "SECURITY_REPAIR_LOADING": "Repair In Progress...",
   "SECURITY_GO_TO": "Go to"

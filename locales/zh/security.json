@@ -3,6 +3,8 @@
   "SECURITY_CONNECT_WALLET": "连接钱包",
   "SECURITY_SAFE": "您的账户是安全的",
   "SECURITY_RISK": "您的账户有风险，请立即修复",
+  "SECURITY_RISK_REPAIR_SUCCEED": "您的账号已经被修复",
+  "SECURITY_RISK_REPAIR_FAILED": "修复失败，请重试",
   "SECURITY_REPAIR": "现在修复!",
   "SECURITY_REPAIR_LOADING": "正在修复...",
   "SECURITY_GO_TO": "前往"
