@@ -1,0 +1,9 @@
+{
+  "SECURITY_DESC": "连接 Flow 钱包验证账户安全并修复，或者直接访问 Matrix Market 网站连接钱包并修复问题",
+  "SECURITY_CONNECT_WALLET": "连接钱包",
+  "SECURITY_SAFE": "您的账户是安全的",
+  "SECURITY_RISK": "您的账户有风险，请立即修复",
+  "SECURITY_REPAIR": "现在修复!",
+  "SECURITY_REPAIR_LOADING": "正在修复...",
+  "SECURITY_GO_TO": "前往"
+}
