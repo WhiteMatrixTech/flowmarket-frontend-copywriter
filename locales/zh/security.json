@@ -7,5 +7,6 @@
   "SECURITY_RISK_REPAIR_FAILED": "修复失败，请重试",
   "SECURITY_REPAIR": "现在修复!",
   "SECURITY_REPAIR_LOADING": "正在修复...",
-  "SECURITY_GO_TO": "前往"
+  "SECURITY_GO_TO": "前往",
+  "SECURITY_LOG_OUT": "退出登录"
 }

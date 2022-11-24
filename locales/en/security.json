@@ -7,5 +7,6 @@
   "SECURITY_RISK_REPAIR_FAILED": "Repair failed, please try again",
   "SECURITY_REPAIR": "Repair Now!",
   "SECURITY_REPAIR_LOADING": "Repair In Progress...",
-  "SECURITY_GO_TO": "Go to"
+  "SECURITY_GO_TO": "Go to",
+  "SECURITY_LOG_OUT": "Log out"
 }
