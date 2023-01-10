@@ -221,5 +221,6 @@
     "COMMON_TRANSFER_MODAL_CANCEL": "Cancel",
     "COMMON_TRANSFER_MODAL_SUS": "Transfer succeed!",
     "COMMON_TRANSFER_INVALID_FLOW_ADDRESS": "Incorrect flow wallet address",
-    "COMMON_BATCH_INIT_ERROR": "Insufficient flow token balance, init script failed to execute"
+    "COMMON_BATCH_INIT_ERROR": "Insufficient flow token balance, init script failed to execute",
+    "COMMON_THUMBNAIL_LOAD_ERROR": "Image failed to load"
 }
